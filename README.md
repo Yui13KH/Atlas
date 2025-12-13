@@ -50,4 +50,3 @@ Everything else = hobby lane only.
 Become **employable** in my main fields within the next 2 years.
 
 ---
-

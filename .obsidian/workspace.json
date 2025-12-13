@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a8b2cf1b88a165",
+        "id": "1624bb73f8c7499c",
         "type": "tabs",
         "children": [
           {
-            "id": "4da401c292ecd00b",
+            "id": "41a37753636032ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "c1-week-1"
+            }
+          },
+          {
+            "id": "69207d292e3ff1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c1-week-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,17 +195,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "f830e92125586404",
+  "active": "69207d292e3ff1e0",
   "lastOpenFiles": [
-    "100_tags/research.md",
-    "100_tags/programming.md",
-    "tags.md",
-    "100_tags/physics.md",
-    "100_tags/math.md",
-    "100_tags/ai.md",
-    "100_tags/graphics.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
+    "100_tags/IT.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-3.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-4.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-3.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-6.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-5.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-4.md",
     "README.md",
-    "100_tags/cybersecurity.md",
+    "Course 1 module 1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-5.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-3.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-4.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-5",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-5.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-4.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-3.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-4",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-6.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1",
+    "01_foundations/IT/Google IT Support Professional Certificate",
+    "01_foundations/IT",
     "100_tags"
   ]
 }
