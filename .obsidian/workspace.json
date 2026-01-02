@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
+                "file": "03_programming/back-end/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering/The Software Development Life Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c1-week-1"
+              "title": "The Software Development Life Cycle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "8e78a22525e60205",
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_programming/back-end/IBM JavaScript Backend Developer/Introduction to Software Engineering/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Module 1"
             }
           },
           {
@@ -168,19 +170,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03_programming/back-end/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering/The Software Development Life Cycle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Software Development Life Cycle"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,8 +200,23 @@
   },
   "active": "69207d292e3ff1e0",
   "lastOpenFiles": [
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-6.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-3.md",
+    "03_programming/back-end/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering/The Software Development Life Cycle.md",
+    "02_cybersecurity/writeups/OverTheWireBandit.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-2.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-3",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-6.md",
+    "03_programming/back-end/IBM JavaScript Backend Developer/Introduction to Software Engineering/Module 1",
+    "03_programming/back-end/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering",
+    "03_programming/back-end/IBM JavaScript Backend Developer",
+    "03_programming/back-end",
+    "README.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
+    "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-2.md",
     "100_tags/IT.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-3.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-2/c2-week-4.md",
@@ -206,7 +225,6 @@
     "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-6.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-5.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-1/c1-week-4.md",
-    "README.md",
     "Course 1 module 1.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-5.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-3.md",
@@ -214,33 +232,9 @@
     "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-2.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-5/c5-week-1.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-5",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-5.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-4.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-3.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-2.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-4/c4-week-1.md",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-4",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-6.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
-    "01_foundations/IT/Google IT Support Professional Certificate/Course-3",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-2",
     "01_foundations/IT/Google IT Support Professional Certificate/Course-1",
-    "01_foundations/IT/Google IT Support Professional Certificate",
-    "01_foundations/IT/Google IT Support/Module 1.md",
-    "02_cybersecurity/writeups/OverTheWireBandit.md",
-    "01_foundations/IT/Google IT Support/Module 1",
-    "01_foundations/IT/Google IT Support",
-    "01_foundations/IT",
-    "100_tags/research.md",
-    "100_tags/programming.md",
-    "tags.md",
-    "100_tags/physics.md",
-    "100_tags/math.md",
-    "100_tags/ai.md",
-    "100_tags/graphics.md",
-    "README.md",
-    "100_tags/cybersecurity.md",
-    "100_tags"
+    "01_foundations/IT/Google IT Support Professional Certificate"
   ]
 }
