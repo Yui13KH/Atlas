@@ -1,6 +1,6 @@
 # OverTheWire — Bandit Progress Notes
 
-**Progress:** 19 / 34
+**Progress:** 20 / 34
 
 ## Core Concepts Learned (Organized by theme)
 
@@ -58,10 +58,12 @@
 * `diff` — compare files
 * `setuid` / `setgid` behavior in binaries
 
+* `tmux` , job control 
+
 ---
 
 ## Next Steps
 
-* Continue Bandit levels 20 → 34
+* Continue Bandit levels 21 → 34
 
 respecting their terms and policies I wont be sharing neither the solutions nor the steps 
