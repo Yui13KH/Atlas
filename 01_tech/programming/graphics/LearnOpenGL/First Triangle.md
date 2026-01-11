@@ -229,7 +229,7 @@ and using different fragment shader on different objects wasnt that hard
 ![[different colored triangles.png]]
 then i was just curious if i can get it to work but using simple python i automated the generation of verex positons and indicies like order of drawing and made a circle 
 
-![[Pasted image 20260109000742.png]]
+![[circle.png]]
 0,0 being the middle , and then whatever R radius with how ever many segments simple trig cos and sin with f string and a loop 
 
 ```python
