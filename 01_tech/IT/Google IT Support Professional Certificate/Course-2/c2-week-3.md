@@ -64,7 +64,7 @@ TCP is used when **accuracy matters** (websites, logins, file transfers).
 
 ---
 
-### TCP Segments (Conceptual Only)
+### TCP Segments 
 
 - TCP data = **TCP segment**
     
@@ -124,7 +124,7 @@ Closing the connection uses a **four-way handshake** with FIN + ACKs.
 
 ---
 
-### TCP Socket States (Only the Common Ones)
+### TCP Socket States
 
 You’ll mostly see these when troubleshooting:
 
@@ -226,7 +226,7 @@ Most home routers = **router + firewall in one box**
 
 ---
 
-## Application Layer (The Human Part)
+## Application Layer 
 
 - This is the **actual data apps care about**
     
@@ -242,7 +242,7 @@ Application layer does.
 
 ---
 
-### TCP/IP vs OSI (Exam Awareness)
+### TCP/IP vs OSI
 
 - TCP/IP = **5 layers** (practical)
     
@@ -260,7 +260,7 @@ Real-world networking mostly thinks in **TCP/IP**, but certs love **OSI**.
 
 ---
 
-### TL;DR (Ultra Short)
+### TL;DR 
 
 - Transport layer = ports + TCP/UDP
     

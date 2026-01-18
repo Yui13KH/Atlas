@@ -1,47 +1,212 @@
-**Full Checklist – All Books**
+# Full Roadmap (Personal Checklist)
 
-**Phase 0**  
-- [ ] Herbert Schildt – C++: A Beginner's Guide (Track A)   (they say the book is bad but who care i'll read it anyway :D  )
-- [ ] Paul Barry – Head First Python (Track B)  
+Long-term plan.  
+Ambitious on purpose.  
+Reading without building is pointless — every phase has projects.
 
-**Phase 1 – Modern C++**  
-- [ ] learncpp.com full (Track A)  
-- [ ] Scott Meyers – Effective Modern C++ (Track B)  
-- [ ] Jason Turner – C++ Best Practices  
+Most books are from Coding Jesus’ Amazon list.  
+The list isn’t special. Finishing it is.
+
+---
+
+temp  
+- [ ] The C Programming Language (ANSI) — for École 42
+
+---
+
+## Phase 0 – Math Foundations
+
+- [ ] Gilbert Strang – Introduction to Linear Algebra  
+- [ ] Stewart – Calculus  
+- [ ] Blitzstein – Introduction to Probability  
+- [ ] MIT – Mathematics for Computer Science  
+
+**Knowledge check:**
+- Linear systems, eigenvalues
+- Calculus (derivatives, integrals, series)
+- Probability, distributions
+- Discrete math reasoning
+
+**Projects:**
+- Matrix + vector math library (C++)
+- Monte Carlo simulations
+- Random walk / Brownian motion
+- Numerical integration experiments
+
+---
+
+## Phase 1 – Core C++
+
+No skipping.
+
+- [ ] learncpp.com (full)
+- [ ] Scott Meyers – Effective Modern C++
 - [ ] Andreas Fertig – Programming with C++20  
-- [ ] Klaus Iglberger – C++ Software Design  
-- [ ] Bartłomiej Filipek – C++ Lambda Story  
+
+**Knowledge check:**
+- RAII
+- Value vs reference semantics
+- Move semantics
+- UB avoidance
+
+**Projects:**
+- Custom vector / string
+- RAII resource wrappers
+- Small reusable libraries
+- Math + geometry types
+
+---
+
+## Phase 2 – Systems & Performance
+
+- [ ] Jon Stokes – Inside the Machine  
+- [ ] Remzi Arpaci-Dusseau – OSTEP  
+- [ ] Fedor Pikus – The Art of Writing Efficient Programs  
+- [ ] Computer Systems: A Programmer’s Perspective  
+
+**Knowledge check:**
+- CPU pipelines, caches
+- Virtual memory
+- Syscalls
+- Profiling & benchmarking
+
+**Projects:**
+- Arena / pool allocator
+- Cache behavior benchmarks
+- File I/O performance tests
+- SIMD microbenchmarks
+
+---
+
+## Phase 3 – Advanced C++ (Design + Concurrency)
+
 - [ ] David Vandevoorde – C++ Templates: The Complete Guide  
-- [ ] J. Davidson – Beautiful C++  
-- [ ] Bartłomiej Filipek – C++17 In Detail  
+- [ ] Klaus Iglberger – C++ Software Design  
+- [ ] Anthony Williams – C++ Concurrency in Action  
 
-**Phase 2 – Tools**  
-- [ ] Drew Neil – Practical Vim (or Modern Vim) – daily background  
-- [ ] Brian P. Hogan – tmux 3 – daily background  
+**Knowledge check:**
+- Template metaprogramming
+- API design
+- Threading models
+- Memory ordering
 
-**Phase 3 – Systems & Performance**  
-- [ ] Jon Stokes – Inside the Machine (Track A)  
-- [ ] Fedor G. Pikus – The Art of Writing Efficient Programs (Track A)  
-- [ ] Remzi Arpaci-Dusseau – Operating Systems: Three Easy Pieces (Track A)  
-- [ ] Kevin Fall – TCP/IP Illustrated, Vol 1 (Track A)  
-- [ ] Martin Kleppmann – Designing Data-Intensive Applications (Track A)  
-- [ ] Anthony Williams – C++ Concurrency in Action (Track A)  
-- [ ] Micha Gorelick – High Performance Python (Track B)  
+**Projects:**
+- Thread pool
+- Lock-free queue
+- Compile-time utilities
+- Parallel simulation engine
 
-**Phase 4 – Quant Finance**  
-- [ ] Will Kurt – Bayesian Statistics the Fun Way (Track A)  
-- [ ] Sheldon Natenberg – Option Volatility and Pricing (Track A)  
-- [ ] Nassim Nicholas Taleb – Dynamic Hedging (Track A)  
-- [ ] Paul Wilmott – Frequently Asked Questions in Quantitative Finance (Track A)  
-- [ ] Allen Jan Baird – Option Market Making (Track A)  
-- [ ] Xinfeng Zhou – A Practical Guide To Quantitative Finance Interviews (Track B)  
+---
 
-**Phase 5 – Python & Interviews**  
+## Phase 4 – Networking & Distributed Systems
+
+Backend + quant infra.
+
+- [ ] Kevin Fall – TCP/IP Illustrated, Vol 1  
+- [ ] Martin Kleppmann – Designing Data-Intensive Applications  
+
+**Knowledge check:**
+- TCP/UDP behavior
+- Latency vs throughput
+- Replication models
+- Consistency tradeoffs
+
+**Projects:**
+- TCP server (C++)
+- Event-driven HTTP server
+- Persistent key-value store
+- Low-latency messaging system
+
+---
+
+## Phase 5 – Python (Data + Glue)
+
 - [ ] Luciano Ramalho – Fluent Python  
 - [ ] Wes McKinney – Python for Data Analysis  
-- [ ] Adnan Aziz – Elements of Programming Interviews  
-- [ ] Sandor DARGO – Daily C++ Interview  
-- [ ] Erich Gamma – Design Patterns  
 
-those books are like literally copy pasted from coding jesus amazon page recommendations 
-sooooooo thanks bro for the book list I guess bro was like " books are available to anyone who is looking for them but not like everyone is into it to actually go through this " so might as well share it 
+**Knowledge check:**
+- Python internals
+- NumPy / pandas
+- C++ bindings
+
+**Projects:**
+- Backtesting framework
+- Python UI + C++ core engine
+- Data ingestion pipeline
+
+---
+
+## Phase 6 – Quant Finance (Main Focus)
+
+- [ ] Will Kurt – Bayesian Statistics the Fun Way  
+- [ ] Paul Wilmott – Quantitative Finance FAQ  
+- [ ] Sheldon Natenberg – Option Volatility and Pricing  
+- [ ] Nassim Taleb – Dynamic Hedging  
+- [ ] Steven Shreve – Stochastic Calculus for Finance  
+
+**Knowledge check:**
+- Option pricing models
+- Greeks
+- Arbitrage concepts
+- Stochastic processes
+
+**Projects:**
+- Monte Carlo option pricer (C++)
+- Black–Scholes implementation
+- Volatility surface visualization
+- Market simulator
+
+---
+
+## Phase 7 – Graphics, Physics & Simulation (Parallel)
+
+- [ ] Numerical Methods reference (ODE / PDE focused)
+- [ ] Physics simulation reference
+- [ ] Rendering fundamentals reference
+
+**Knowledge check:**
+- Numerical stability
+- Physical simulation loops
+- Rendering pipelines
+
+**Projects:**
+- Particle system
+- Physics simulation (rigid or soft bodies)
+- CPU ray tracer
+- Quant model visualizers
+
+---
+
+## Phase 8 – Cyber / Security Fundamentals (Parallel)
+
+- [ ] OS security fundamentals reference
+- [ ] Memory exploitation reference
+- [ ] Network security reference
+
+**Knowledge check:**
+- Memory safety issues
+- Exploitation basics
+- Defensive mitigations
+
+**Projects:**
+- Fuzzing tools
+- Exploit labs
+- Secure server hardening
+
+---
+
+## Phase 9 – Interviews & Polish (Later / Parallel)
+
+- [ ] Adnan Aziz – Elements of Programming Interviews  
+- [ ] Erich Gamma – Design Patterns  
+- [ ] Sandor Dargo – Daily C++ Interview  
+
+**Projects:**
+- Algorithm drill implementations
+- System design writeups
+- Rewriting old projects cleanly
+
+---
+
+Multi-year plan.  
+That’s fine.

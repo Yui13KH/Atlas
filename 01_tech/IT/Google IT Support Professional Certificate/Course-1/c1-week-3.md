@@ -2,7 +2,7 @@ Alright, same treatment again — **hard cut, high-signal, written like you wrot
 
 ---
 
-## Week 3 – Operating Systems (Actually Important Stuff)
+## Week 3 – Operating Systems 
 
 ### What an OS is (real definition)
 
@@ -19,7 +19,7 @@ Windows, macOS, Linux — same ideas, different implementations.
 
 ---
 
-## Remote access (very relevant)
+## Remote access
 
 ### SSH
 
@@ -106,7 +106,7 @@ That’s basically it.
 
 ---
 
-## Files & file systems (don’t overdo)
+## Files & file systems
 
 File =
 
@@ -226,7 +226,7 @@ Very relevant for security.
 
 ---
 
-## Chrome OS (why it matters)
+## Chrome OS 
 
 - Browser-centric OS.
     

@@ -1,5 +1,5 @@
 
-## Week 4 – Networking (Only the Stuff That Matters)
+## Week 4 – Networking 
 
 ### What networking actually is
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Addresses (this part actually matters)
+### Addresses
 
 - **IP address** → logical network address (where you are).
     
@@ -47,7 +47,7 @@ Good mental model:
 
 ---
 
-### Networking hardware (don’t memorize, understand)
+### Networking hardware 
 
 - **Ethernet** = wired
     
@@ -67,7 +67,7 @@ device → cable → switch → router → ISP → Internet
 
 ---
 
-### Protocols (language of the Internet)
+### Protocols
 
 - Protocols = rules for how data moves.
     
@@ -116,7 +116,7 @@ Receptionist analogy works, keep that.
 
 ---
 
-### Internet history (only the takeaway)
+### Internet history
 
 - ARPANET → early networking.
     

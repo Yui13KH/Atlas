@@ -111,7 +111,7 @@ I don’t need electrical details — just the flow.
 
 ---
 
-## Ports & peripherals (don’t overthink)
+## Ports & peripherals
 
 - **Peripherals** = external devices (keyboard, mouse, display, storage).
     
@@ -139,7 +139,7 @@ I don’t need electrical details — just the flow.
 
 ---
 
-## Mobile devices (same idea, compact)
+## Mobile devices
 
 - Phones are computers too.
     
@@ -185,7 +185,7 @@ I don’t need electrical details — just the flow.
 
 ---
 
-## Assembly & safety (bare minimum)
+## Assembly & safety
 
 - Static electricity can kill components → ground yourself.
     

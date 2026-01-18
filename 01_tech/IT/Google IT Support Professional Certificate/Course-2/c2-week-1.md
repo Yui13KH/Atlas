@@ -15,7 +15,7 @@
 
 ---
 
-## TCP/IP Five-Layer Model (this is core)
+## TCP/IP Five-Layer Model
 
 Used to understand _where_ things break and _what_ does what.
 
@@ -37,7 +37,7 @@ Mail analogy is fine but honestly: **just remember the job of each layer**.
 
 ---
 
-## Networking devices (what talks to what)
+## Networking devices
 
 ### Cables
 
@@ -62,7 +62,7 @@ Mail analogy is fine but honestly: **just remember the job of each layer**.
 
 ---
 
-### Hubs vs Switches (important)
+### Hubs vs Switches 
 
 - **Hub** (Layer 1)
     

@@ -1,5 +1,5 @@
 
-## Week 2 – Network Layer (What Actually Matters)
+## Week 2 – Network Layer
 
 ### What the Network Layer Does
 
@@ -49,7 +49,7 @@ You don’t need to memorize every header field, just know _why they exist_.
 
 ---
 
-### IP Classes (Legacy, Mostly Dead)
+### IP Classes 
 
 Old system split IPs into:
 
@@ -190,7 +190,7 @@ Basic router logic:
 
 ---
 
-### Routing Protocols (High-Level Only)
+### Routing Protocols
 
 Routers talk to each other using routing protocols.
 

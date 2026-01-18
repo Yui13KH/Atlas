@@ -45,7 +45,7 @@
 - `head` and `tail`: same as PowerShell
 - `grep`: search for text in files (super powerful)
 
-## I/O Streams (same idea in both)
+## I/O Streams
 
 Each process has:
 - **stdin**: input (usually keyboard)

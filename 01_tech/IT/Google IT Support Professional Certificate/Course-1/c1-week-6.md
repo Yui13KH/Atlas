@@ -1,6 +1,5 @@
 
-## Week 6 – Troubleshooting (Actual Useful Version)
-
+## Week 6 – Troubleshooting 
 ### What troubleshooting really is
 
 - **Troubleshooting** = figuring out what’s broken and fixing it _systematically_.
@@ -12,7 +11,7 @@
 
 ---
 
-### The basic troubleshooting flow (this matters)
+### The basic troubleshooting flow 
 
 1. **Ask questions**
     
@@ -60,7 +59,7 @@
 
 ---
 
-### Customer service (yeah, it matters)
+### Customer service
 
 - Acknowledge the user.
     
@@ -94,7 +93,7 @@
 
 ---
 
-### Documentation (boring but important)
+### Documentation
 
 - If it’s not written down, it didn’t happen.
     
@@ -128,7 +127,7 @@ Keep it:
 
 ---
 
-### Interviews (minimal survival notes)
+### Interviews
 
 - You don’t need all answers — you need **clear thinking**.
     

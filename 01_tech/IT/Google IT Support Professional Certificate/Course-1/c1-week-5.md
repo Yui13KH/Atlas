@@ -1,5 +1,5 @@
 
-## Week 5 – Software (Trimmed, No BS)
+## Week 5 – Software 
 
 ### What software actually is
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Coding vs scripting vs programming (don’t overthink it)
+### Coding vs scripting vs programming 
 
 - **Coding** = translating instructions into something a computer understands.
     
@@ -25,7 +25,7 @@
 
 ---
 
-### Types of software (only what matters)
+### Types of software
 
 - **Application software** → stuff you use (browser, editor, tools).
     
@@ -40,7 +40,7 @@
 
 ---
 
-### Abstraction (important idea, not details)
+### Abstraction
 
 - CPUs are different.
     
@@ -51,7 +51,7 @@
 
 ---
 
-### How software execution evolved (simplified)
+### How software execution evolved
 
 - Early days: binary → awful.
     
@@ -81,7 +81,7 @@ Key takeaway:
 
 ---
 
-### Why scripting actually matters (for IT / security)
+### Why scripting actually matters 
 
 - Automates boring or repetitive tasks.
     
@@ -92,7 +92,7 @@ Key takeaway:
 
 ---
 
-### Managing software (real-world stuff)
+### Managing software
 
 - Programs / apps / software = same idea.
     
@@ -107,7 +107,7 @@ Key takeaway:
 
 ---
 
-### Installing software (bare minimum)
+### Installing software 
 
 **Windows**
 
