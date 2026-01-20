@@ -16,22 +16,52 @@ temp
 
 ## Phase 0 – Math Foundations
 
-- [ ] Gilbert Strang – Introduction to Linear Algebra  
-- [ ] Stewart – Calculus  
-- [ ] Blitzstein – Introduction to Probability  
+### Precalculus & Algebra (UNI / BITS Math Qualifier)
+- [ ] Stewart – Precalculus  
+- [ ] Schaum’s Outline of College Algebra  
+- [ ] Gelfand – Algebra  
+- [ ] Schaum’s Outline of Trigonometry  
+
+### Sets, Logic & Discrete Reasoning
 - [ ] MIT – Mathematics for Computer Science  
+- [ ] Velleman – How to Prove It  
+
+### Calculus (Core)
+- [ ] Stewart – Calculus  
+- [ ] Schaum’s Outline of Calculus  
+
+### Differential Equations (UNI / BITS Math Qualifier)
+- [ ] Schaum’s Outline of Differential Equations  
+
+### Linear Algebra
+- [ ] Gilbert Strang – Introduction to Linear Algebra  
+
+### Probability
+- [ ] Blitzstein – Introduction to Probability  
+
+
 
 **Knowledge check:**
-- Linear systems, eigenvalues
+- Algebraic manipulation (polynomials, quadratics, complex numbers)
+- Trigonometric functions, identities, and equations
+- Functions, relations, domains, ranges, and mappings
+- Sets, logic, proofs, and discrete reasoning
+- Limits and continuity
 - Calculus (derivatives, integrals, series)
-- Probability, distributions
-- Discrete math reasoning
+- Applications of derivatives (monotonicity, extrema)
+- Differential equations (first order)
+- Linear systems, vector spaces, eigenvalues
+- Probability, random variables, distributions
 
 **Projects:**
 - Matrix + vector math library (C++)
+- Numerical differentiation & integration library
 - Monte Carlo simulations
 - Random walk / Brownian motion
-- Numerical integration experiments
+- Probability distribution simulator & visualizer
+- Function plotting & calculus sandbox
+- Simple ODE solver (Euler / Runge–Kutta)
+
 
 ---
 

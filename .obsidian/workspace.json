@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b27c3cab77121793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Journal/Random Thoughts at Night.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Random Thoughts at Night"
-            }
-          },
-          {
             "id": "175257e6254313d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
+                "file": "00_inbox/just being too ambitious igs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "c3-week-5"
+              "title": "just being too ambitious igs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,6 +195,8 @@
   },
   "active": "175257e6254313d1",
   "lastOpenFiles": [
+    "05_Journal/2026-01-18.md",
+    "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-3.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-2.md",
@@ -236,7 +213,6 @@
     "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-3.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-2.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
-    "05_Journal/2026-01-18.md",
     "05_Journal/2026-01-12.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-6.md",
     "01_tech/programming/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering/The Software Development Life Cycle.md",
@@ -246,7 +222,6 @@
     "README.md",
     "05_Journal/Book Reviews",
     "05_Journal/Random Thoughts at Night.md",
-    "05_Journal/Thoughts on C++ and my proficiency at it.md",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
     "01_tech/programming/C",
     "01_tech/programming/graphics/LearnOpenGL/Images/different colored triangles.png",
