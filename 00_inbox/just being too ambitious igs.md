@@ -93,6 +93,10 @@ No skipping.
 - [ ] Remzi Arpaci-Dusseau – OSTEP  
 - [ ] Fedor Pikus – The Art of Writing Efficient Programs  
 - [ ] Computer Systems: A Programmer’s Perspective  
+- [ ] Agner Fog – Optimizing Software in C++
+- [ ] Agner Fog – Instruction Tables ( meh idk )
+- [ ] Ulrich Drepper – What Every Programmer Should Know About Memory
+
 
 **Knowledge check:**
 - CPU pipelines, caches
@@ -113,6 +117,7 @@ No skipping.
 - [ ] David Vandevoorde – C++ Templates: The Complete Guide  
 - [ ] Klaus Iglberger – C++ Software Design  
 - [ ] Anthony Williams – C++ Concurrency in Action  
+- [ ] Stanley Lippman – Inside the C++ Object Model
 
 **Knowledge check:**
 - Template metaprogramming
@@ -134,6 +139,7 @@ Backend + quant infra.
 
 - [ ] Kevin Fall – TCP/IP Illustrated, Vol 1  
 - [ ] Martin Kleppmann – Designing Data-Intensive Applications  
+- [ ] Linux Perf Book – Brendan Gregg
 
 **Knowledge check:**
 - TCP/UDP behavior

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/just being too ambitious igs.md",
+                "file": "06_School/din 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "just being too ambitious igs"
+              "title": "din 6"
             }
           }
         ]
@@ -195,6 +195,24 @@
   },
   "active": "175257e6254313d1",
   "lastOpenFiles": [
+    "06_School/felsefe 4.md",
+    "06_School/din 6.md",
+    "06_School/history 6.md",
+    "06_School/History 5.md",
+    "00_inbox/just being too ambitious igs.md",
+    "06_School/🗺️ COĞRAFYA – 2.md",
+    "Untitled.md",
+    "06_School",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-6.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-5.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-4.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-3.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-2.md",
+    "05_Journal/2026-01-21.md",
+    "03_languages/Turkish/Turkish Literature Exams Prep/Untitled",
+    "06_School/Turkish Literature Exams Prep",
+    "03_languages/Turkish",
     "05_Journal/2026-01-18.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
@@ -207,21 +225,7 @@
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-3.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-2.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-1.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-6.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-5.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-4.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-3.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-2.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-1/c1-week-1.md",
-    "05_Journal/2026-01-12.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-6.md",
-    "01_tech/programming/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering/The Software Development Life Cycle.md",
-    "00_inbox/just being too ambitious igs.md",
-    "01_tech/programming/C++/LearnCpp/c++ basic.md",
-    "01_tech/programming/C++/LearnCpp/Realization.md",
-    "README.md",
     "05_Journal/Book Reviews",
-    "05_Journal/Random Thoughts at Night.md",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
     "01_tech/programming/C",
     "01_tech/programming/graphics/LearnOpenGL/Images/different colored triangles.png",
@@ -233,10 +237,6 @@
     "01_tech/programming/graphics/LearnOpenGL/Images/Screen Coordinates.png",
     "01_tech/programming/graphics/LearnOpenGL/Images",
     "01_tech/programming/graphics/LearnOpenGL/Images/Triangle Vertecies.png",
-    "01_tech/programming/graphics/LearnOpenGL",
-    "01_tech/programming/IBM JavaScript Backend Developer/1 ; Introduction to Software Engineering",
-    "01_tech/programming/IBM JavaScript Backend Developer",
-    "06_programming/back-end",
-    "06_programming"
+    "01_tech/programming/graphics/LearnOpenGL"
   ]
 }
