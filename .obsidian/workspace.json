@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_School/din 6.md",
+                "file": "00_inbox/just being too ambitious igs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "din 6"
+              "title": "just being too ambitious igs"
             }
           }
         ]
@@ -193,10 +193,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "175257e6254313d1",
+  "active": "f830e92125586404",
   "lastOpenFiles": [
-    "06_School/felsefe 4.md",
+    "02_science/Math",
     "06_School/din 6.md",
+    "06_School/felsefe 4.md",
     "06_School/history 6.md",
     "06_School/History 5.md",
     "00_inbox/just being too ambitious igs.md",
@@ -224,7 +225,6 @@
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-4.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-3.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-2.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-1.md",
     "05_Journal/Book Reviews",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
     "01_tech/programming/C",

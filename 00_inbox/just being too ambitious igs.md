@@ -18,6 +18,8 @@ temp
 
 ### Precalculus & Algebra (UNI / BITS Math Qualifier)
 - [ ] Stewart – Precalculus  
+- [ ] Schaum’s Outline of Precalculus
+- [ ] AoPS Precalculus (optional, ultra-cracked prep)
 - [ ] Schaum’s Outline of College Algebra  
 - [ ] Gelfand – Algebra  
 - [ ] Schaum’s Outline of Trigonometry  
@@ -35,11 +37,15 @@ temp
 
 ### Linear Algebra
 - [ ] Gilbert Strang – Introduction to Linear Algebra  
+- [ ] Trefethen & Bau – Numerical Linear Algebra (Applied / Reference)
 
-### Probability
+### Probability & Statistics
 - [ ] Blitzstein – Introduction to Probability  
+- [ ] Will Kurt – Bayesian Statistics the Fun Way (intro prep for quant)
 
-
+### Optimization / Applied Math
+- [ ] Boyd & Vandenberghe – Convex Optimization (select chapters)  
+- [ ] Kreyszig – Advanced Engineering Mathematics (PDE / Fourier / Laplace chapters)
 
 **Knowledge check:**
 - Algebraic manipulation (polynomials, quadratics, complex numbers)
@@ -49,9 +55,10 @@ temp
 - Limits and continuity
 - Calculus (derivatives, integrals, series)
 - Applications of derivatives (monotonicity, extrema)
-- Differential equations (first order)
+- Differential equations (first order, later extend to second-order/system)
 - Linear systems, vector spaces, eigenvalues
 - Probability, random variables, distributions
+- Basics of optimization & convexity
 
 **Projects:**
 - Matrix + vector math library (C++)
@@ -62,7 +69,6 @@ temp
 - Function plotting & calculus sandbox
 - Simple ODE solver (Euler / Runge–Kutta)
 
-
 ---
 
 ## Phase 1 – Core C++
@@ -72,6 +78,7 @@ No skipping.
 - [ ] learncpp.com (full)
 - [ ] Scott Meyers – Effective Modern C++
 - [ ] Andreas Fertig – Programming with C++20  
+- [ ] Jason Turner – C++ Best Practices (optional add-on)
 
 **Knowledge check:**
 - RAII
@@ -84,6 +91,7 @@ No skipping.
 - RAII resource wrappers
 - Small reusable libraries
 - Math + geometry types
+- Template-metaprogramming playground (light)
 
 ---
 
@@ -93,10 +101,10 @@ No skipping.
 - [ ] Remzi Arpaci-Dusseau – OSTEP  
 - [ ] Fedor Pikus – The Art of Writing Efficient Programs  
 - [ ] Computer Systems: A Programmer’s Perspective  
-- [ ] Agner Fog – Optimizing Software in C++
-- [ ] Agner Fog – Instruction Tables ( meh idk )
-- [ ] Ulrich Drepper – What Every Programmer Should Know About Memory
-
+- [ ] Agner Fog – Optimizing Software in C++  
+- [ ] Agner Fog – Instruction Tables  
+- [ ] Ulrich Drepper – What Every Programmer Should Know About Memory  
+- [ ] Brendan Gregg – Systems Performance (book)  
 
 **Knowledge check:**
 - CPU pipelines, caches
@@ -139,7 +147,9 @@ Backend + quant infra.
 
 - [ ] Kevin Fall – TCP/IP Illustrated, Vol 1  
 - [ ] Martin Kleppmann – Designing Data-Intensive Applications  
-- [ ] Linux Perf Book – Brendan Gregg
+- [ ] Linux Perf Book – Brendan Gregg  
+- [ ] Beej’s Guide to Network Programming (C reference)
+- [ ] Martin Thompson – Mechanical Sympathy (low-latency systems, optional)
 
 **Knowledge check:**
 - TCP/UDP behavior
@@ -174,17 +184,18 @@ Backend + quant infra.
 
 ## Phase 6 – Quant Finance (Main Focus)
 
-- [ ] Will Kurt – Bayesian Statistics the Fun Way  
 - [ ] Paul Wilmott – Quantitative Finance FAQ  
 - [ ] Sheldon Natenberg – Option Volatility and Pricing  
 - [ ] Nassim Taleb – Dynamic Hedging  
 - [ ] Steven Shreve – Stochastic Calculus for Finance  
+- [ ] Glasserman – Monte Carlo Methods in Financial Engineering (MC techniques / performance)
 
 **Knowledge check:**
 - Option pricing models
 - Greeks
 - Arbitrage concepts
 - Stochastic processes
+- Monte Carlo convergence & variance reduction
 
 **Projects:**
 - Monte Carlo option pricer (C++)
@@ -194,16 +205,24 @@ Backend + quant infra.
 
 ---
 
-## Phase 7 – Graphics, Physics & Simulation (Parallel)
+## Phase 7 – Graphics, Physics & Simulation (Hobby / Serious)
 
-- [ ] Numerical Methods reference (ODE / PDE focused)
-- [ ] Physics simulation reference
-- [ ] Rendering fundamentals reference
+- [ ] Numerical Methods reference (ODE / PDE focused)  
+- [ ] Physics simulation reference  
+- [ ] Rendering fundamentals reference  
+- [ ] Real-Time Rendering – Akenine-Möller et al.  
+- [ ] Physically Based Rendering – Pharr, Jakob, Humphreys  
+- [ ] Fundamentals of Computer Graphics – Peter Shirley  
+- [ ] OpenGL Programming Guide (Red Book)  
+- [ ] Vulkan Programming Guide (optional for advanced)  
+- [ ] Eric Lengyel – Mathematics for 3D Game Programming and Computer Graphics  
 
 **Knowledge check:**
 - Numerical stability
 - Physical simulation loops
 - Rendering pipelines
+- 3D math & transforms
+- Light transport / shading
 
 **Projects:**
 - Particle system
@@ -213,16 +232,24 @@ Backend + quant infra.
 
 ---
 
-## Phase 8 – Cyber / Security Fundamentals (Parallel)
+## Phase 8 – Cyber / Security Fundamentals (Hobby / Serious)
 
-- [ ] OS security fundamentals reference
-- [ ] Memory exploitation reference
-- [ ] Network security reference
+- [ ] OS security fundamentals reference  
+- [ ] Memory exploitation reference  
+- [ ] Network security reference  
+- [ ] Ross Anderson – Security Engineering  
+- [ ] Hacking: The Art of Exploitation – Jon Erickson  
+- [ ] Practical Binary Analysis – Dennis Andriesse  
+- [ ] The Web Application Hacker’s Handbook  
+- [ ] CompTIA Security+ Study Guide  
+- [ ] Penetration Testing: A Hands-On Introduction to Hacking – Georgia Weidman  
 
 **Knowledge check:**
 - Memory safety issues
 - Exploitation basics
 - Defensive mitigations
+- Secure coding / OS hardening
+- Network defense & attack mindset
 
 **Projects:**
 - Fuzzing tools
