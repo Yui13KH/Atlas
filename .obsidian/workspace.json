@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85aadee1a3ba18aa",
+        "id": "1b294506900efb5a",
         "type": "tabs",
         "children": [
           {
-            "id": "175257e6254313d1",
+            "id": "3193b370669ff1cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/just being too ambitious igs.md",
+                "file": "05_Journal/So Recap on math.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "just being too ambitious igs"
+              "title": "So Recap on math"
             }
           }
         ]
@@ -193,14 +193,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f830e92125586404",
+  "active": "3193b370669ff1cd",
   "lastOpenFiles": [
+    "05_Journal/Thoughts on C++ and my proficiency at it.md",
+    "05_Journal/So Recap on math.md",
+    "05_Journal/I dont know Everything is wierd.md",
+    "05_Journal/2026-01-12.md",
+    "05_Journal/2026-01-21.md",
+    "05_Journal/2026-01-18.md",
+    "00_inbox/just being too ambitious igs.md",
     "02_science/Math",
     "06_School/din 6.md",
     "06_School/felsefe 4.md",
     "06_School/history 6.md",
     "06_School/History 5.md",
-    "00_inbox/just being too ambitious igs.md",
     "06_School/🗺️ COĞRAFYA – 2.md",
     "Untitled.md",
     "06_School",
@@ -210,11 +216,9 @@
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-3.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-2.md",
-    "05_Journal/2026-01-21.md",
     "03_languages/Turkish/Turkish Literature Exams Prep/Untitled",
     "06_School/Turkish Literature Exams Prep",
     "03_languages/Turkish",
-    "05_Journal/2026-01-18.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-3.md",
@@ -222,9 +226,6 @@
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-1.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-6.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-5.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-4.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-3.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-2.md",
     "05_Journal/Book Reviews",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
     "01_tech/programming/C",
@@ -236,7 +237,6 @@
     "01_tech/programming/C++",
     "01_tech/programming/graphics/LearnOpenGL/Images/Screen Coordinates.png",
     "01_tech/programming/graphics/LearnOpenGL/Images",
-    "01_tech/programming/graphics/LearnOpenGL/Images/Triangle Vertecies.png",
-    "01_tech/programming/graphics/LearnOpenGL"
+    "01_tech/programming/graphics/LearnOpenGL/Images/Triangle Vertecies.png"
   ]
 }
