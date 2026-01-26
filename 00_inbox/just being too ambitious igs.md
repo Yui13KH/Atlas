@@ -14,51 +14,122 @@ temp
 
 ---
 
-## Phase 0 – Math Foundations
+## Phase 0 – Mathematical Fluency & Core Tools
 
-### Precalculus & Algebra (UNI / BITS Math Qualifier)
-- [ ] Stewart – Precalculus  
-- [ ] Schaum’s Outline of Precalculus
-- [ ] AoPS Precalculus (optional, ultra-cracked prep)
+### 0A. Algebra, Functions & Trigonometry (Symbol Control)
+- [ ] Stewart – Precalculus  (in progress)
+- [ ] Schaum’s Outline of Precalculus  
 - [ ] Schaum’s Outline of College Algebra  
 - [ ] Gelfand – Algebra  
+- [ ] Kiselev – Algebra  
 - [ ] Schaum’s Outline of Trigonometry  
+- [ ] Gelfand & Shen – Trigonometry  
+- [ ] AoPS Precalculus (optional, ultra-cracked prep)
 
-### Sets, Logic & Discrete Reasoning
+---
+
+### 0B. Sets, Logic & Mathematical Thinking
 - [ ] MIT – Mathematics for Computer Science  
+- [ ] Hammack – Book of Proof  
 - [ ] Velleman – How to Prove It  
 
-### Calculus (Core)
+---
+
+### 0C. Calculus I–II (Single Variable, Structure + Computation)
 - [ ] Stewart – Calculus  
 - [ ] Schaum’s Outline of Calculus  
+- [ ] Apostol – Calculus, Vol. I  
+- [ ] Spivak – Calculus  
+- [ ] Courant – Differential and Integral Calculus (selected chapters)
 
-### Differential Equations (UNI / BITS Math Qualifier)
-- [ ] Schaum’s Outline of Differential Equations  
+---
 
-### Linear Algebra
+### 0D. Linear Algebra (Abstract + Numerical, in parallel)
 - [ ] Gilbert Strang – Introduction to Linear Algebra  
+- [ ] Axler – Linear Algebra Done Right  
 - [ ] Trefethen & Bau – Numerical Linear Algebra (Applied / Reference)
 
-### Probability & Statistics
-- [ ] Blitzstein – Introduction to Probability  
-- [ ] Will Kurt – Bayesian Statistics the Fun Way (intro prep for quant)
+---
 
-### Optimization / Applied Math
+### 0E. Probability & Statistics (Before Analysis)
+- [ ] Blitzstein – Introduction to Probability  
+- [ ] Grinstead & Snell – Introduction to Probability  
+- [ ] Sheldon Ross – A First Course in Probability  
+- [ ] Will Kurt – Bayesian Statistics the Fun Way (optional / intuition)
+
+---
+
+### 0F. Differential Equations & Applied Transforms
+- [ ] Schaum’s Outline of Differential Equations  
+- [ ] Boylestad – Differential Equations with Boundary-Value Problems  
+- [ ] Arnold – Ordinary Differential Equations  
+- [ ] Kreyszig – Advanced Engineering Mathematics  
+  - Fourier Series & Transforms  
+  - Laplace Transforms  
+  - PDE exposure
+
+---
+
+### 0G. Optimization & Convex Thinking
 - [ ] Boyd & Vandenberghe – Convex Optimization (select chapters)  
-- [ ] Kreyszig – Advanced Engineering Mathematics (PDE / Fourier / Laplace chapters)
+- [ ] Luenberger – Linear and Nonlinear Programming  
+
+---
+
+## Phase 1 – Analysis, PDE & Numerical Foundations (Advisor Alignment)
+
+### 1A. Real & Functional Analysis
+- [ ] Rudin – Principles of Mathematical Analysis  
+- [ ] Kreyszig – Introductory Functional Analysis with Applications  
+- [ ] Conway – A Course in Functional Analysis  
+
+---
+
+### 1B. Partial Differential Equations
+- [ ] Strauss – Partial Differential Equations  
+- [ ] Evans – Partial Differential Equations  
+- [ ] Taylor – Partial Differential Equations I (selected topics)
+
+---
+
+### 1C. Numerical Analysis & Integral Equations
+- [ ] Quarteroni, Sacco, Saleri – Numerical Mathematics  
+- [ ] Atkinson – The Numerical Solution of Integral Equations of the Second Kind  
+- [ ] Hackbusch – Integral Equations: Theory and Numerical Treatment  
+
+---
+
+### 1D. Asymptotics & High-Frequency Analysis
+- [ ] Bender & Orszag – Advanced Mathematical Methods for Scientists and Engineers  
+- [ ] Wong – Asymptotic Approximations of Integrals  
+- [ ] Olver – Asymptotics and Special Functions  
+
+---
+
+### 1E. Boundary Element & Scattering Methods
+- [ ] Kress – Linear Integral Equations  
+- [ ] Colton & Kress – Inverse Acoustic and Electromagnetic Scattering Theory  
+- [ ] Steinbach – Numerical Approximation Methods for Elliptic Boundary Value Problems  
+
+
+---
 
 **Knowledge check:**
 - Algebraic manipulation (polynomials, quadratics, complex numbers)
 - Trigonometric functions, identities, and equations
 - Functions, relations, domains, ranges, and mappings
 - Sets, logic, proofs, and discrete reasoning
-- Limits and continuity
-- Calculus (derivatives, integrals, series)
-- Applications of derivatives (monotonicity, extrema)
-- Differential equations (first order, later extend to second-order/system)
-- Linear systems, vector spaces, eigenvalues
+- Limits, continuity, and convergence
+- Rigorous calculus and series
+- ODEs and qualitative behavior
+- Linear systems, vector spaces, operators
+- Functional analysis basics
+- PDE classification and boundary problems
+- Integral equations and kernels
+- Numerical stability and convergence
 - Probability, random variables, distributions
-- Basics of optimization & convexity
+- Optimization & convexity
+- Asymptotic reasoning and scaling laws
 
 **Projects:**
 - Matrix + vector math library (C++)
@@ -68,6 +139,10 @@ temp
 - Probability distribution simulator & visualizer
 - Function plotting & calculus sandbox
 - Simple ODE solver (Euler / Runge–Kutta)
+- Finite difference solver for elliptic/parabolic PDEs
+- Boundary integral equation solver (2D Laplace / Helmholtz)
+- High-frequency asymptotic experiment (stationary phase / steepest descent)
+
 
 ---
 

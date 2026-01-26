@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Journal/So Recap on math.md",
+                "file": "00_inbox/just being too ambitious igs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "So Recap on math"
+              "title": "just being too ambitious igs"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "3193b370669ff1cd",
   "lastOpenFiles": [
-    "05_Journal/Thoughts on C++ and my proficiency at it.md",
     "05_Journal/So Recap on math.md",
+    "05_Journal/Thoughts on C++ and my proficiency at it.md",
     "05_Journal/I dont know Everything is wierd.md",
     "05_Journal/2026-01-12.md",
     "05_Journal/2026-01-21.md",
