@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "just being too ambitious igs"
             }
+          },
+          {
+            "id": "a9c4b36b2102dfd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/just being too ambitious igs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "just being too ambitious igs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +218,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3193b370669ff1cd",
+  "active": "a9c4b36b2102dfd5",
   "lastOpenFiles": [
+    "04_projects/Math/pyramidVisualization.py",
+    "04_projects/Math",
     "05_Journal/So Recap on math.md",
     "05_Journal/Thoughts on C++ and my proficiency at it.md",
     "05_Journal/I dont know Everything is wierd.md",
@@ -225,7 +252,6 @@
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-2.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-1.md",
     "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-6.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-2/c2-week-5.md",
     "05_Journal/Book Reviews",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
     "01_tech/programming/C",
@@ -236,7 +262,6 @@
     "01_tech/programming/C++/LearnCpp",
     "01_tech/programming/C++",
     "01_tech/programming/graphics/LearnOpenGL/Images/Screen Coordinates.png",
-    "01_tech/programming/graphics/LearnOpenGL/Images",
     "01_tech/programming/graphics/LearnOpenGL/Images/Triangle Vertecies.png"
   ]
 }
