@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b294506900efb5a",
+        "id": "2afbecd2f637eb16",
         "type": "tabs",
         "children": [
           {
-            "id": "3193b370669ff1cd",
+            "id": "bb1a9ff858d3960b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/just being too ambitious igs.md",
+                "file": "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "just being too ambitious igs"
-            }
-          },
-          {
-            "id": "a9c4b36b2102dfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/just being too ambitious igs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "just being too ambitious igs"
+              "title": "Türk Dili ve Edebiyatı-1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#noktalama",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,8 +194,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9c4b36b2102dfd5",
+  "active": "7ab480f391a64743",
   "lastOpenFiles": [
+    "00_inbox/just being too ambitious igs.md",
     "04_projects/Math/pyramidVisualization.py",
     "04_projects/Math",
     "05_Journal/So Recap on math.md",
@@ -228,7 +205,6 @@
     "05_Journal/2026-01-12.md",
     "05_Journal/2026-01-21.md",
     "05_Journal/2026-01-18.md",
-    "00_inbox/just being too ambitious igs.md",
     "02_science/Math",
     "06_School/din 6.md",
     "06_School/felsefe 4.md",
@@ -260,7 +236,6 @@
     "01_tech/programming/graphics/LearnOpenGL/Images/2 triangles.png",
     "01_tech/programming/graphics/LearnOpenGL/Images/First Triangle.png",
     "01_tech/programming/C++/LearnCpp",
-    "01_tech/programming/C++",
     "01_tech/programming/graphics/LearnOpenGL/Images/Screen Coordinates.png",
     "01_tech/programming/graphics/LearnOpenGL/Images/Triangle Vertecies.png"
   ]
