@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1.md",
+                "file": "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Türk Dili ve Edebiyatı-1"
+              "title": "Türk Dili ve Edebiyatı-1 Questions"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#noktalama",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ab480f391a64743",
+  "active": "bb1a9ff858d3960b",
   "lastOpenFiles": [
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Exam Topics.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Questions.md",
     "00_inbox/just being too ambitious igs.md",
     "04_projects/Math/pyramidVisualization.py",
     "04_projects/Math",
@@ -217,7 +218,6 @@
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-5.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-4.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-3.md",
-    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-2.md",
     "03_languages/Turkish/Turkish Literature Exams Prep/Untitled",
     "06_School/Turkish Literature Exams Prep",
