@@ -1,4 +1,3 @@
-
 basically what we are doing is i'll be checking the last 3 years of exams and then making a graph of what is commonly asked and study for that 
 
 # 📘 Açık Lise – Türk Dili ve Edebiyatı 1 (541)

@@ -1,4 +1,4 @@
-# Full Roadmap (Personal Checklist)
+# Previous Full Roadmap (Personal Checklist)
 
 Long-term plan.  
 Ambitious on purpose.  
@@ -14,7 +14,8 @@ The list isn’t special. Finishing it is.
 🟥 CORE — must actively study and solve problems  
 🟨 SUPPORT — intuition / clarification alongside CORE  
 🟦 REFERENCE — just-in-time lookup, non-linear  
-🟪 STRETCH — advanced, unlocked later
+🟪 STRETCH — advanced, unlocked later  
+🟩 START HERE — ramp before CORE (low friction + intuition)
 
 ---
 
@@ -23,11 +24,26 @@ temp
 
 ---
 
-## Phase 0 – Mathematical Fluency & Core Tools
+# Phase 0 – Mathematical Fluency & Core Tools
 
-### 0A. Algebra, Functions & Trigonometry (Symbol Control)
+---
 
-- [ ] 🟥 Stewart – Precalculus (in progress)  
+## 0A. Algebra, Functions & Trigonometry (Symbol Control)
+
+🟩 START HERE
+- Khan Academy:
+  - Algebra basics (skip trivial content)
+  - Pre-Algebra
+  - Algebra 1
+  - High School Geometry
+  - Algebra 2
+  - Trigonometry
+  - Precalculus
+  - College Algebra (optional reinforcement)
+
+Then:
+
+- [ ] 🟥 Stewart – Precalculus  
 - [ ] 🟥 Schaum’s Outline of Precalculus  
 
 - [ ] 🟨 Schaum’s Outline of College Algebra  
@@ -37,33 +53,54 @@ temp
 - [ ] 🟪 Kiselev – Algebra  
 - [ ] 🟪 Gelfand & Shen – Trigonometry  
 
-- [ ] 🟦 AoPS Precalculus (optional, ultra-cracked prep)
+- [ ] 🟦 AoPS Precalculus  
 
 ---
 
-### 0B. Sets, Logic & Mathematical Thinking
+## 0B. Sets, Logic & Mathematical Thinking
+
+🟩 START HERE
+- MIT Mathematics for Computer Science (logic & discrete intuition exposure only)
+
+Then:
 
 - [ ] 🟥 Hammack – Book of Proof  
-
 - [ ] 🟨 Velleman – How to Prove It  
-
-- [ ] 🟦 MIT – Mathematics for Computer Science  
+- [ ] 🟦 MIT – Mathematics for Computer Science (full reference)
 
 ---
 
-### 0C. Calculus I–II (Single Variable, Structure + Computation)
+## 0C. Calculus I–II (Single Variable)
+
+🟩 START HERE
+- Khan Academy:
+  - Differential Calculus
+  - Integral Calculus
+  - Calculus 1
+  - Calculus 2
+  - AP Calculus AB / BC exercises
+
+Then:
 
 - [ ] 🟥 Stewart – Calculus  
 - [ ] 🟥 Schaum’s Outline of Calculus  
 
+Then:
+
 - [ ] 🟨 Spivak – Calculus  
 
 - [ ] 🟪 Apostol – Calculus, Vol. I  
-- [ ] 🟪 Courant – Differential and Integral Calculus (selected chapters)
+- [ ] 🟪 Courant – Differential and Integral Calculus  
 
 ---
 
-### 0D. Linear Algebra (Abstract + Numerical, in parallel)
+## 0D. Linear Algebra
+
+🟩 START HERE
+- Khan Academy Linear Algebra  
+- 3Blue1Brown – Essence of Linear Algebra
+
+Then:
 
 - [ ] 🟥 Gilbert Strang – Introduction to Linear Algebra  
 
@@ -73,7 +110,15 @@ temp
 
 ---
 
-### 0E. Probability & Statistics (Before Analysis)
+## 0E. Probability & Statistics
+
+🟩 START HERE
+- Khan Academy:
+  - High School Statistics
+  - Statistics and Probability
+  - AP Statistics
+
+Then:
 
 - [ ] 🟥 Blitzstein – Introduction to Probability  
 
@@ -81,11 +126,17 @@ temp
 
 - [ ] 🟦 Sheldon Ross – A First Course in Probability  
 
-- [ ] 🟪 Will Kurt – Bayesian Statistics the Fun Way (optional / intuition)
+- [ ] 🟪 Will Kurt – Bayesian Statistics the Fun Way  
 
 ---
 
-### 0F. Differential Equations & Applied Transforms
+## 0F. Differential Equations & Applied Transforms
+
+🟩 START HERE
+- Khan Academy Differential Equations  
+- Paul’s Online Math Notes (DE sections)
+
+Then:
 
 - [ ] 🟥 Schaum’s Outline of Differential Equations  
 
@@ -96,21 +147,34 @@ temp
 - [ ] 🟦 Kreyszig – Advanced Engineering Mathematics  
   - Fourier Series & Transforms  
   - Laplace Transforms  
-  - PDE exposure
+  - PDE exposure  
 
 ---
 
-### 0G. Optimization & Convex Thinking
+## 0G. Optimization & Convex Thinking
 
-- [ ] 🟥 Boyd & Vandenberghe – Convex Optimization (select chapters)  
+🟩 START HERE
+- Stanford Convex Optimization Lectures (Boyd)
+
+Then:
+
+- [ ] 🟥 Boyd & Vandenberghe – Convex Optimization  
 
 - [ ] 🟦 Luenberger – Linear and Nonlinear Programming  
 
 ---
 
-## Phase 1 – Analysis, PDE & Numerical Foundations (Advisor Alignment)
+# Phase 1 – Analysis, PDE & Numerical Foundations
 
-### 1A. Real & Functional Analysis
+---
+
+## 1A. Real & Functional Analysis
+
+🟩 START HERE
+- Abbott – Understanding Analysis (bridge text)
+- MIT OCW Real Analysis Lectures
+
+Then:
 
 - [ ] 🟥 Rudin – Principles of Mathematical Analysis  
 
@@ -120,39 +184,59 @@ temp
 
 ---
 
-### 1B. Partial Differential Equations
+## 1B. Partial Differential Equations
+
+🟩 START HERE
+- MIT OCW PDE lectures
+
+Then:
 
 - [ ] 🟪 Strauss – Partial Differential Equations  
 - [ ] 🟪 Evans – Partial Differential Equations  
-- [ ] 🟪 Taylor – Partial Differential Equations I (selected topics)
+- [ ] 🟪 Taylor – Partial Differential Equations I  
 
 ---
 
-### 1C. Numerical Analysis & Integral Equations
+## 1C. Numerical Analysis & Integral Equations
+
+🟩 START HERE
+- MIT / Stanford Numerical Methods lecture courses
+
+Then:
 
 - [ ] 🟪 Quarteroni, Sacco, Saleri – Numerical Mathematics  
-- [ ] 🟪 Atkinson – The Numerical Solution of Integral Equations of the Second Kind  
-- [ ] 🟪 Hackbusch – Integral Equations: Theory and Numerical Treatment  
+- [ ] 🟪 Atkinson – Numerical Solution of Integral Equations  
+- [ ] 🟪 Hackbusch – Integral Equations  
 
 ---
 
-### 1D. Asymptotics & High-Frequency Analysis
+## 1D. Asymptotics & High-Frequency Analysis
 
-- [ ] 🟪 Bender & Orszag – Advanced Mathematical Methods for Scientists and Engineers  
-- [ ] 🟪 Wong – Asymptotic Approximations of Integrals  
-- [ ] 🟪 Olver – Asymptotics and Special Functions  
+🟩 START HERE
+- Applied math asymptotics lecture courses (university-level)
+
+Then:
+
+- [ ] 🟪 Bender & Orszag  
+- [ ] 🟪 Wong  
+- [ ] 🟪 Olver  
 
 ---
 
-### 1E. Boundary Element & Scattering Methods
+## 1E. Boundary Element & Scattering Methods
+
+🟩 START HERE
+- Electromagnetic / wave scattering academic lecture courses
+
+Then:
 
 - [ ] 🟪 Kress – Linear Integral Equations  
-- [ ] 🟪 Colton & Kress – Inverse Acoustic and Electromagnetic Scattering Theory  
-- [ ] 🟪 Steinbach – Numerical Approximation Methods for Elliptic Boundary Value Problems  
+- [ ] 🟪 Colton & Kress – Scattering Theory  
+- [ ] 🟪 Steinbach – Elliptic Boundary Value Problems  
 
 ---
 
-### Knowledge Check (Math)
+# Knowledge Check (Math)
 
 - Algebraic manipulation  
 - Trigonometric identities  
@@ -172,7 +256,7 @@ temp
 
 ---
 
-### Projects (Math / Numerics)
+# Projects (Math / Numerics)
 
 - Matrix + vector math library (C++)  
 - Numerical differentiation & integration  
@@ -187,9 +271,9 @@ temp
 
 ---
 
-## Phase 1 – Core C++
+# Phase 1 – Core C++
 
-No skipping.
+(No ramp — learncpp already serves as foundation)
 
 - [ ] 🟥 learncpp.com (full)  
 - [ ] 🟥 Scott Meyers – Effective Modern C++  
@@ -199,80 +283,89 @@ No skipping.
 
 ---
 
-## Phase 2 – Systems & Performance
+# Phase 2 – Systems & Performance
+
+🟩 START HERE
+- MIT Missing Semester (tools + environment fundamentals)
+
+Then:
 
 - [ ] 🟥 Computer Systems: A Programmer’s Perspective  
-- [ ] 🟥 Remzi Arpaci-Dusseau – OSTEP  
+- [ ] 🟥 OSTEP  
 
-- [ ] 🟨 Jon Stokes – Inside the Machine  
-- [ ] 🟨 Fedor Pikus – The Art of Writing Efficient Programs  
+- [ ] 🟨 Inside the Machine  
+- [ ] 🟨 Art of Writing Efficient Programs  
 
-- [ ] 🟦 Agner Fog – Optimizing Software in C++  
+- [ ] 🟦 Agner Fog – Optimization Manuals  
 - [ ] 🟦 Agner Fog – Instruction Tables  
-- [ ] 🟦 Ulrich Drepper – What Every Programmer Should Know About Memory  
+- [ ] 🟦 Ulrich Drepper – Memory  
 - [ ] 🟦 Brendan Gregg – Systems Performance  
 
 ---
 
-## Phase 3 – Advanced C++ (Design + Concurrency)
+# Phase 3 – Advanced C++ (Design + Concurrency)
 
-- [ ] 🟥 David Vandevoorde – C++ Templates  
-- [ ] 🟥 Anthony Williams – C++ Concurrency in Action  
+- [ ] 🟥 C++ Templates – Vandevoorde  
+- [ ] 🟥 C++ Concurrency in Action – Williams  
 
-- [ ] 🟨 Klaus Iglberger – C++ Software Design  
-
-- [ ] 🟦 Stanley Lippman – Inside the C++ Object Model  
+- [ ] 🟨 C++ Software Design – Iglberger  
+- [ ] 🟦 Inside the C++ Object Model – Lippman  
 
 ---
 
-## Phase 4 – Networking & Distributed Systems
+# Phase 4 – Networking & Distributed Systems
 
-- [ ] 🟥 Kevin Fall – TCP/IP Illustrated, Vol. 1  
-- [ ] 🟥 Martin Kleppmann – Designing Data-Intensive Applications  
+- [ ] 🟥 TCP/IP Illustrated  
+- [ ] 🟥 Designing Data-Intensive Applications  
 
 - [ ] 🟨 Beej’s Guide to Network Programming  
 
-- [ ] 🟦 Linux Perf Book – Brendan Gregg  
-- [ ] 🟪 Martin Thompson – Mechanical Sympathy  
+- [ ] 🟦 Linux Perf Book – Gregg  
+- [ ] 🟪 Mechanical Sympathy – Thompson  
 
 ---
 
-## Phase 5 – Python (Data + Glue)
+# Phase 5 – Python (Data + Glue)
 
-- [ ] 🟥 Luciano Ramalho – Fluent Python  
-
-- [ ] 🟨 Wes McKinney – Python for Data Analysis  
-
----
-
-## Phase 6 – Quant Finance (Main Focus)
-
-- [ ] 🟥 Steven Shreve – Stochastic Calculus for Finance  
-- [ ] 🟥 Glasserman – Monte Carlo Methods in Financial Engineering  
-
-- [ ] 🟨 Sheldon Natenberg – Option Volatility and Pricing  
-- [ ] 🟨 Paul Wilmott – Quantitative Finance FAQ  
-
-- [ ] 🟪 Nassim Taleb – Dynamic Hedging  
+- [ ] 🟥 Fluent Python  
+- [ ] 🟨 Python for Data Analysis  
 
 ---
 
-## Phase 7 – Graphics, Physics & Simulation
+# Phase 6 – Quant Finance
+
+🟩 START HERE
+- Intro stochastic processes lectures (university-level)
+- Hull option pricing overview lectures
+
+Then:
+
+- [ ] 🟥 Shreve – Stochastic Calculus for Finance  
+- [ ] 🟥 Glasserman – Monte Carlo Methods  
+
+- [ ] 🟨 Natenberg – Option Volatility and Pricing  
+- [ ] 🟨 Wilmott – Quant Finance FAQ  
+
+- [ ] 🟪 Taleb – Dynamic Hedging  
+
+---
+
+# Phase 7 – Graphics / Physics / Simulation
 
 - [ ] 🟥 Real-Time Rendering  
 - [ ] 🟥 Physically Based Rendering  
 - [ ] 🟥 Fundamentals of Computer Graphics  
 
-- [ ] 🟨 Eric Lengyel – Mathematics for 3D Game Programming  
+- [ ] 🟨 Mathematics for 3D Game Programming  
 
 - [ ] 🟦 OpenGL Programming Guide  
 - [ ] 🟪 Vulkan Programming Guide  
 
 ---
 
-## Phase 8 – Cyber / Security Fundamentals
+# Phase 8 – Cyber / Security Fundamentals
 
-- [ ] 🟥 Ross Anderson – Security Engineering  
+- [ ] 🟥 Security Engineering – Ross Anderson  
 
 - [ ] 🟨 Hacking: The Art of Exploitation  
 - [ ] 🟨 Practical Binary Analysis  
@@ -283,7 +376,7 @@ No skipping.
 
 ---
 
-## Phase 9 – Interviews & Polish
+# Phase 9 – Interviews & Polish
 
 - [ ] 🟨 Elements of Programming Interviews  
 - [ ] 🟨 Design Patterns  

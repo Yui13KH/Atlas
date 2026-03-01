@@ -610,3 +610,217 @@ Idioms are the hardest part of a new language because the words don't mean what 
 >     
 
 
+### **[Karakter Tahlili / Kişilik Özellikleri]**
+
+#### **Question**
+
+> Genellikle evinin pencereleri kapalı olurdu, kafasını dışarı dahi uzatmak istemezdi. Bazen dışarıda hiç kimsenin bulunmadığı zamanlar, pencereden bir parça uzanırdı. Balkonlarda, ev önlerinde biri görünür görünmez hemen içeri çekilirdi. Çok zorunlu olmadıkça dışarıya çıkmazdı. Bankada veya bir devlet dairesinde işi olduğunda da sokakta kimsecikler yokken sabah erkenden evden çıkar, eve karanlık çökünce gelirdi. Tanıdık bir kimseyle karşılaşacağım diye ödü kopardı.
+> 
+> **Bu parçada sözü edilen kahramanın kişilik özelliğiyle ilgili aşağıdakilerden hangisi söylenebilir?**
+> 
+> **A)** Bencildir.
+> 
+> **B)** Kuşkucudur.
+> 
+> **C)** İçine kapanıktır.
+> 
+> **D)** Karamsardır.
+
+---
+
+#### **Target Analysis**
+
+- **Correct Answer:** **C**
+    
+- **Question Type:** `#karakter-özelliği` (Character Traits)
+    
+- **Difficulty:** Easy (If you know basic personality adjectives)
+    
+
+#### **Reasoning**
+
+1. **Why C is the Answer (İçine kapanık):** This means **introverted** or **socially withdrawn**.
+    
+    - The character hides from people, only goes out when it's dark/empty, and is terrified of seeing acquaintances (_Tanıdık bir kimseyle karşılaşacağım diye ödü kopardı_).
+        
+2. **Why it is NOT A (Bencil):** Bencil means **Selfish**. The text doesn't say he takes things from others or only thinks of his own gain; he just wants to be alone.
+    
+3. **Why it is NOT B (Kuşkucu):** Kuşkucu means **Skeptical/Suspicious**. He isn't worried people are plotting against him; he just doesn't want to interact with them.
+    
+4. **Why it is NOT D (Karamsar):** Karamsar means **Pessimistic**. He isn't saying "Life is terrible and we are all going to fail"; he is just avoiding social contact.
+    
+
+---
+
+#### **The "Non-Native" Cheat Sheet**
+
+These four words appear in almost every "Character" question. Learn them as pairs:
+
+- **İçine kapanık** (Introvert) vs. **Dışa dönük** (Extrovert)
+    
+- **İyimser** (Optimist) vs. **Karamsar** (Pessimist)
+    
+- **Alçak gönüllü** (Humble) vs. **Kibirli** (Arrogant)
+    
+- **Fedakâr** (Self-sacrificing) vs. **Bencil** (Selfish)
+    
+
+---
+
+### **Your Obsidian Journal Entry**
+
+> [!TIP] **Personality Word Bank**
+> 
+> - **Introvert Actions:** Hiding, staying home, avoiding people $\rightarrow$ **İçine kapanık**.
+>     
+> - **Selfish Actions:** Thinking only of yourself $\rightarrow$ **Bencil**.
+>     
+> - **Pessimist Actions:** Thinking everything will go wrong $\rightarrow$ **Karamsar**.
+>     
+> - **Suspicious Actions:** Not trusting anyone/anything $\rightarrow$ **Kuşkucu**.
+>     
+
+### **[Söz Sanatları (Literary Devices)]**
+
+#### **Question**
+
+> Dönmüş bugün çöllerden
+> 
+> Bulurum diyerek Mecnun
+> 
+> Leylasının düşüyle
+> 
+> **Çatıları göğe değen** > Bir kentin eteğine
+> 
+> **Bu şiirde aşağıdaki söz sanatlarından hangisi kullanılmıştır?**
+> 
+> **A)** Tezat
+> 
+> **B)** Mübalağa
+> 
+> **C)** Teşhis
+> 
+> **D)** Hüsnütalil
+
+---
+
+#### **Target Analysis**
+
+- **Correct Answer:** **B**
+    
+- **Question Type:** `#söz-sanatları` (Literary Devices)
+    
+- **Difficulty:** Medium (Requires identifying exaggeration)
+    
+
+#### **Reasoning**
+
+1. **Why B is the Answer (Mübalağa):** Look at the bolded line: **"Çatıları göğe değen"** (Roofs that touch the sky).
+    
+    - This is a classic **Exaggeration** (Mübalağa). Even the tallest skyscraper doesn't actually touch the sky/heavens. The poet is exaggerating the height of the city buildings to emphasize how overwhelming or "modern" the city looks compared to Mecnun's desert.
+        
+2. **Why it's NOT D (Hüsnütalil):** _Hüsnütalil_ means "Beautiful reason." It’s when you attribute a natural event to a poetic cause (e.g., "The clouds are crying because you left"). This poem doesn't assign a fake "reason" to a natural event; it just describes the city as impossibly tall.
+    
+3. **Why it's NOT A (Tezat):** No opposing concepts (like black/white or life/death) are used to create contrast.
+    
+4. **Why it's NOT C (Teşhis):** This is personification (giving human traits to objects). The roofs aren't acting like humans; they are just "tall."
+    
+
+---
+
+#### **The "Non-Native" Cheat Sheet**
+
+You don't need the whole story of Mecnun and Leyla. Look for **Impossible Physical Descriptions**:
+
+- **Mübalağa (Exaggeration):** Look for things that are physically impossible in size or scale.
+    
+    - _Example:_ "I cried enough to fill a sea" or "**Roofs touching the sky.**"
+        
+- **Hüsnütalil (Poetic Reason):** Look for a "because."
+    
+    - _Example:_ "The sun came out **because** you smiled."
+        
+- **Teşhis (Personification):** Look for objects doing "human" things.
+    
+    - _Example:_ "The tired old road."
+        
+
+---
+
+### **Your Obsidian Journal Entry**
+
+> [!IMPORTANT] **Söz Sanatları Triggers**
+> 
+> - **Exaggerated Size/Scale** $\rightarrow$ **Mübalağa**.
+>     
+> - **Nature + "Because"** $\rightarrow$ **Hüsnütalil**.
+>     
+> - **Objects acting human** $\rightarrow$ **Teşhis**.
+>     
+> - _Açık Lise Hack:_ If you see words like "göğe değmek" (touching the sky), "dünyalar kadar" (as much as worlds), or "dağlar devirmek" (toppling mountains), the answer is always **Mübalağa**.
+>     
+
+### **[Eser-Yazar-Tür (Author-Work-Genre)]**
+
+#### **Question**
+
+> **Rasim Özdenören’e ait aşağıdaki eserlerden hangisi deneme türünde kaleme alınmıştır?**
+> 
+> **A)** Denize Açılan Kapı
+> 
+> **B)** Ruhun Malzemeleri
+> 
+> **C)** Ansızın Yola Çıkmak
+> 
+> **D)** Gül Yetiştiren Adam
+
+---
+
+#### **Target Analysis**
+
+- **Correct Answer:** **B**
+    
+- **Question Type:** `#yazar-eser-eşleştirme` (Author-Work Match)
+    
+- **Difficulty:** High (Pure memorization)
+    
+
+#### **Reasoning**
+
+1. **B) Ruhun Malzemeleri:** This is a famous **Deneme** (Essay) book by Rasim Özdenören. He discusses culture, soul, and society.
+    
+2. **A & C (Story):** _Denize Açılan Kapı_ and _Ansızın Yola Çıkmak_ are actually **Hikâye** (Story) books.
+    
+3. **D (Novel):** _Gül Yetiştiren Adam_ is his most famous work, but it is a **Roman** (Novel). It’s a classic "trap" choice because everyone knows the name, but forgets the genre.
+    
+
+---
+
+#### **The "Non-Native" Cheat Sheet**
+
+When dealing with Rasim Özdenören, memorize this "Genre Triangle":
+
+- **Novel:** _Gül Yetiştiren Adam_
+    
+- **Essays (Deneme):** _Ruhun Malzemeleri_, _Müslümanca Düşünme Üzerine Denemeler_.
+    
+- **Stories:** _Hastalar ve Işıklar_, _Çözülme_.
+    
+
+---
+
+### **Your Obsidian Journal Entry**
+
+> [!CAUTION] **Rasim Özdenören Quick List**
+> 
+> - **Gül Yetiştiren Adam** $\rightarrow$ **Novel** (Roman).
+>     
+> - **Ruhun Malzemeleri** $\rightarrow$ **Essay** (Deneme).
+>     
+> - **Hastalar ve Işıklar** $\rightarrow$ **Story** (Hikâye).
+>     
+> - _Açık Lise Hack:_ If the title sounds very "philosophical" or "abstract" (like _Ruhun Malzemeleri_ or _Yeniden İnanmak_), it's probably a **Deneme**.
+>     
+
+---
+
