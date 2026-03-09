@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Graphics_Programming_Ambitious"
             }
+          },
+          {
+            "id": "b7d0b92c7130593a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_School/Cografya 2 (152)/exam quetsions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "exam quetsions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,14 +218,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb1a9ff858d3960b",
+  "active": "b7d0b92c7130593a",
   "lastOpenFiles": [
-    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Questions.md",
-    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Exam Topics.md",
+    "06_School/Cografya 2 (152)/🗺️ COĞRAFYA – 2.md",
+    "06_School/Cografya 2 (152)/exam quetsions.md",
+    "06_School/Turkish Literature Exams Prep/(541) TÜRK DİLİ VE ED./(541) TÜRK DİLİ VE ED Questions.md",
+    "06_School/Cografya 2 (152)",
+    "06_School/Turkish Literature Exams Prep/findings - outcomes ?.md",
+    "00_inbox/idk.md",
+    "00_inbox/Graphics_Programming_Ambitious.md",
     "00_inbox/khan academy content.md",
     "00_inbox/just being too ambitious igs.md",
+    "06_School/Turkish Literature Exams Prep/Tu/Untitled",
+    "06_School/Turkish Literature Exams Prep/(541) TÜRK DİLİ VE ED.",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Questions.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-1 Exam Topics.md",
+    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-6.md",
     "02_science/Math/Math Notes.xopp~",
-    "Untitled.md",
     "04_projects/Math/pyramidVisualization.py",
     "04_projects/Math",
     "05_Journal/So Recap on math.md",
@@ -214,23 +248,15 @@
     "06_School/felsefe 4.md",
     "06_School/history 6.md",
     "06_School/History 5.md",
-    "06_School/🗺️ COĞRAFYA – 2.md",
     "06_School",
-    "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-6.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-5.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-4.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-3.md",
     "06_School/Turkish Literature Exams Prep/Türk Dili ve Edebiyatı-2.md",
     "03_languages/Turkish/Turkish Literature Exams Prep/Untitled",
     "06_School/Turkish Literature Exams Prep",
-    "03_languages/Turkish",
     "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-5.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-4.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-3.md",
-    "01_tech/IT/Google IT Support Professional Certificate/Course-3/c3-week-2.md",
-    "05_Journal/Book Reviews",
     "01_tech/programming/graphics/LearnOpenGL/Images/circle.png",
-    "01_tech/programming/C",
     "01_tech/programming/graphics/LearnOpenGL/Images/different colored triangles.png",
     "01_tech/programming/graphics/LearnOpenGL/Images/rendered 2 triangles.png",
     "01_tech/programming/graphics/LearnOpenGL/Images/2 triangles.png",

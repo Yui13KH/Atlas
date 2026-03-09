@@ -331,4 +331,3 @@ Principle:
 
 Theory must be implemented.
 Implementation must be profiled.
-Profiling must be understood.
