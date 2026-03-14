@@ -19,12 +19,8 @@ To be honest i am probably just too ambitious and like the plan is too unrealist
 ## Rules
 
 1. No copy-paste junk.
-2. Every concept must be linked to *at least one* other note.
-3. If I can’t explain it, I don’t understand it.
-4. Build something with everything I learn.
+2. If I can’t explain it, I don’t understand it.
+3. Build something with everything I learn.
 
-## Goal
-
-Become **employable** in my main fields within the next 2 years.
 
 ---
