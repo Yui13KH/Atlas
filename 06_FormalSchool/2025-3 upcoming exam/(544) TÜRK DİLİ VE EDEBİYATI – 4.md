@@ -550,3 +550,118 @@ This is indeed a pure "you know it or you don't" question, but the dates are you
 |**Fecriati**|1909–1912|Highly individualistic|Heavy, emotional, dramatic|_"Sanat şahsi ve muhteremdir"_ (Art is personal)|
 |**Millî Edebiyat**|1911–1923|Nationalism, Anatolian people, war|Pure, simple, spoken Turkish|_Yeni Lisan, halk, Anadolu, Hece vezni_|
 
+---
+
+### Your Original Text & Question 8 )
+
+Aşağıdaki parçalardan hangisi fablın farklı bir bölümünden alınmıştır?
+
+A) Bir aslan, ininde uyurken burnunun üstünden bir fare geçmiş ve onu uyandırmış. Aslan, korkudan ödü patlamış olan zavallı küçük fareyi pençesiyle yakalamış; tam onu ezmek üzereyken fare, kendisine acıması için yalvarmaya başlamış.
+
+B) Şeftaliyle elma günün birinde güzellik yarışına girmişler. İkisi de kendisinin daha güzel olduğunu söylüyormuş. Tartışma tam kavgaya dönüşecekken bir böğürtlen, çalıların arasından uzanıp “Ne diye boşu boşuna bağırıp duruyorsunuz?” diye seslenmiş.
+
+C) Karganın biri pek susamış. “Nereden su bulacağım?” diye düşünürken bir testi ilişmiş gözüne. Sevinçle oraya uçmuş hemen. Bir de bakmış ki testi dolu değil. Sadece dibinde biraz su varmış. Ne yapsa ne etse testinin dibindeki suya erişememiş.
+
+D) Avcılardan biri hışırtıyı duyunca karacanın orada olduğunu anlayıp ateş etmiş. Karaca son nefesini verirken “Hak ettim bunu!” demiş. “Başım tehlikedeyken beni saklayan, beni koruyan asmayı yemek, nankörlükten başka bir şey değildi.”
+
+Bu parçalardan hangisi fablın farklı bir bölümünden alınmıştır?
+
+### Your Translation & Guess
+
+> **Your Translation:**
+
+> Question translation: "I forgot what is fablı" but i got that the question is asking which passage is from a different era , so we are looking for a different vibe
+> A: "one tiger/lion , while sleeping in its nest (idk what is ininde) a mouse walked over its nose and it woke him/her up . something something the tiger from his fear something exploded and somethin g something he catched the mouse , something something the mouse to not feel the pain something started doing something" uhhh i got the general idea bout a tiger/lion and a mouse but not the specifics yeah lol i dont know any of those words "ininde . ödü . zavallı . pençesiyle . ezmek . yalvarmaya." but i mean idk we could take this as a natural event vibe , like telling a story
+> B: "a peach entered the beauty challange in apple's day . each of them ( the apple and the peach ) are saying that they are prettier , almost when the argument turned into a fight a (some fruit idk what is böğürtlen ) in between their talks ? or arguments said 'what are u doing yelling and standing still ' she said/she sounded" lol what is this story { arguments / fights ? }
+> C: "dunno first paragraph , 'where could i find water ' while thinking one test took up his eye or someting , what test ? , he ran quickly there , flied there ? , he looked at the well and it isnt filled , there is onlz a bit of water on its something (dibinde ) what it didnt and didnt do the water it couldnt reach the water at its , something " { still feels like nature , an animal doing something unlike B about the fruits it feels like those are more like national geographic talks while B was fantasy or child's talk / story }
+> D: "something something when it heard the weapon/something that shoots it shot the deer or something , the last breaths of the dear it said " i was right about this " something can u hide me from the dangerousness , take care of me water and food , idk what is (nankörlükten ) nothing else then this "
+> 
+> **Your Guess:** B (Because the characters are fruits, while others are animals, giving it a different fantasy vibe).
+
+### Proper Translation of Full Passage & Question
+
+**The Question:** Which of the following passages is taken from a **different section of a fable (fablın farklı bir bölümü)**?
+
+- **A) [Introduction - Serim]:** A lion was sleeping in his **den (ininde)** when a mouse ran across his nose and woke him up. The lion caught the **poor (zavallı)** little mouse, whose **heart was in his mouth from fear (ödü patlamış)**, with his **paw (pençesiyle)**; just as he was about to **crush (ezmek)** him, the mouse began to **beg (yalvarmaya)** for mercy.
+    
+- **B) [Introduction - Serim]:** One day, a peach and an apple entered a beauty contest. Both were saying they were the more beautiful one. Just as the argument was about to turn into a fight, a **blackberry (böğürtlen)** reached out from among the bushes and called out, "Why are you yelling and shouting for nothing?"
+    
+- **C) [Introduction - Serim]:** A certain crow was very thirsty. While thinking "Where will I find water?", a **clay pot (testi)** **caught his eye (ilişmiş gözüne)**. He flew there joyfully right away. He took a look, only to see that the pot was not full. There was only a little water at the **bottom (dibinde)**. No matter what he did, he could not reach the water at the bottom of the pot.
+    
+- **D) [Conclusion / Moral - Öğüt]:** When one of the hunters heard the rustling, he realized the **roe deer (karaca)** was there and fired. As the roe deer took its last breath, it said, "I deserved this! Eating the **grapevine (asma)** that hid and protected me when my head was in danger was nothing but **ingratitude (nankörlük)**."
+    
+
+### Vocabulary & Logic Argument: Where it went wrong
+
+Your guess of B was a very logical, clever attempt based on the "characters" of the story (fruits vs. animals). However, this is where a **Turkish Literature Theory Trap** caught you.
+
+#### 1. What is a Fable (Fabl)?
+
+A fable is a short story teaching a moral lesson, where animals, plants, or objects talk. So fruits talking (Option B) is perfectly normal for a fable!
+
+#### 2. The Sections of a Fable (Fablın Bölümleri):
+
+Like a classic story, a fable has structured sections. MEB wants you to identify which section of the plot structure the passage represents:
+
+1. **Serim (Introduction):** The characters are introduced, and the event begins. (Options A, B, and C are all starting a story. They set up the scene: a lion sleeping, fruits arguing, a thirsty crow looking at a pot).
+    
+2. **Düğüm (Development/Knot):** The conflict develops.
+    
+3. **Çözüm (Resolution):** The conflict is resolved.
+    
+4. **Öğüt (Moral/Conclusion):** The lesson of the story is explicitly stated, often by a character reflecting on their mistakes, or by the narrator.
+    
+
+Look closely at **Option D**. The deer is giving its last breath and explicitly declaring the moral lesson of the fable: _"This happened to me because I was ungrateful to the vine that protected me."_ This is the **Öğüt (Moral)** section, while A, B, and C are all **Serim (Introduction)** sections.
+
+**Correct Answer: D**
+
+### Vocabulary You Didn't Know
+
+Here is your breakdown of the words that tripped you up:
+
+- **İn:** Den / Cave (animal's home).
+    
+- **Ödü patlamak (Idiom):** To be scared to death / terrified. (Literally: for one's gallbladder to burst).
+    
+- **Zavallı:** Poor / miserable / helpless.
+    
+- **Pençe:** Paw / Claw.
+    
+- **Ezmek:** To crush / smash.
+    
+- **Yalvarmak:** To beg / plead.
+    
+- **Böğürtlen:** Blackberry.
+    
+- **Testi:** A traditional clay water pot.
+    
+- **Gözüne ilişmek (Idiom):** To catch one's eye / to spot accidentally.
+    
+- **Dip (Dibinde):** Bottom (at its bottom).
+    
+- **Karaca:** Roe deer.
+    
+- **Asma:** Grapevine / climbing plant.
+    
+- **Nankörlük:** Ingratitude / ungratefulness.
+    
+
+---
+
+9. Toy bitince Oğuz Han, verdi şu buyruğunu:  
+
+“Ey benim beylerimle ilimin ey budunu! Sizlerin başınıza, ben oldum artık kağan,  
+Elimizden düşmesin, ne yayımız ne kalkan!  Damgamız olsun bize, yol gösteren bir  
+buyan! Alpler olun savaşta, bozkurt gibi uluyan! Demir kargılar ile olsun ilimiz orman!  
+Av yerlerimiz dolsun, vahşi at ile kulan. Yurdumuz ırmaklarla denizler ile dolsun
+Gökteki güneş ise yurdun bayrağı olsun, İlimizin çadırı, yukardaki gök olsun, Dünya devletim ol olsun, halkımız da çok olsun!” 
+
+Oğuz Kağan destanından alınan 
+bu parçayla ilgili aşağıdakilerden hangisi söylenemez?  
+
+A) Türk kültürüne ait motiflere yer verilmiştir.  
+B) Mensur olarak söylenmiştir.  
+C) Oğuz Kağan’ın dünya hâkimiyeti  anlayışı yer alır.  
+D) Coşkulu bir anlatım vardır
+
