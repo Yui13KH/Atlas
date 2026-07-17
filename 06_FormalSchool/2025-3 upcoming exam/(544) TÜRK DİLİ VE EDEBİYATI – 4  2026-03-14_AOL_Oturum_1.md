@@ -649,19 +649,126 @@ Here is your breakdown of the words that tripped you up:
 
 ---
 
-9. Toy bitince Oğuz Han, verdi şu buyruğunu:  
+### Original Text & Question
 
-“Ey benim beylerimle ilimin ey budunu! Sizlerin başınıza, ben oldum artık kağan,  
-Elimizden düşmesin, ne yayımız ne kalkan!  Damgamız olsun bize, yol gösteren bir  
-buyan! Alpler olun savaşta, bozkurt gibi uluyan! Demir kargılar ile olsun ilimiz orman!  
-Av yerlerimiz dolsun, vahşi at ile kulan. Yurdumuz ırmaklarla denizler ile dolsun
-Gökteki güneş ise yurdun bayrağı olsun, İlimizin çadırı, yukardaki gök olsun, Dünya devletim ol olsun, halkımız da çok olsun!” 
+> Toy bitince Oğuz Han, verdi şu buyruğunu:
+> 
+> “Ey benim beylerimle ilimin ey budunu!  Sizlerin başınıza, ben oldum artık kağan, Elimizden düşmesin, ne yayımız ne kalkan!  Damgamız olsun bize, yol gösteren bir buyan! Alpler olun savaşta, bozkurt gibi uluyan!  Demir kargılar ile olsun ilimiz orman! Av yerlerimiz dolsun, vahşi at ile kulan.  Yurdumuz ırmaklarla denizler ile dolsun Gökteki güneş ise yurdun bayrağı olsun,  İlimizin çadırı, yukardaki gök olsun Dünya devletim olsun, halkımız da çok olsun!”
+> 
+> **Oğuz Kağan destanından alınan bu parçayla ilgili aşağıdakilerden hangisi söylenemez?**
+> 
+> - **A)** Türk kültürüne ait motiflere yer verilmiştir.
+> - **B)** Mensur olarak söylenmiştir.
+> - **C)** Oğuz Kağan’ın dünya hâkimiyeti anlayışı yer alır.
+> - **D)** Coşkulu bir anlatım vardır.
+>     
 
-Oğuz Kağan destanından alınan 
-bu parçayla ilgili aşağıdakilerden hangisi söylenemez?  
+### Proper Translation of Full Passage & Options
 
-A) Türk kültürüne ait motiflere yer verilmiştir.  
-B) Mensur olarak söylenmiştir.  
-C) Oğuz Kağan’ın dünya hâkimiyeti  anlayışı yer alır.  
-D) Coşkulu bir anlatım vardır
+When the feast ended, Oğuz Han gave this command:
+
+"O my lords and the people of my land!
+I have now become the ruler over your heads,
+Let neither our bow nor our shield fall from our hands!
+Let our seal be a guiding blessing to us!
+Be warriors in battle, howling like grey wolves!
+Let our land be a forest of iron spears!
+Let our hunting grounds fill with wild horses and wild donkeys.
+Let our homeland fill with rivers and seas,
+And let the sun in the sky be our homeland’s flag,
+Let the sky above be the tent of our state,
+Let the world be my state, and let our people be many!"
+
+**Which of the following CANNOT be said about this excerpt taken from the Epic of Oğuz Kağan?**
+
+- **A)** Motifs belonging to Turkish culture are included.
+    
+- **B)** It is spoken/written in prose (paragraph form).
+    
+- **C)** Oğuz Kağan's concept of world domination is present.
+    
+- **D)** There is an enthusiastic/passionate narration.
+    
+
+### The Pure Logic Explanation (Your Exam Cheat Code)
+
+You don't need to struggle with ancient Turkish words to solve this. The answer lies in basic literary terms that MEB tests constantly:
+
+- **Manzum (Poetry):** Text written in structured, rhyming lines/verses.
+    
+- **Mensur (Prose):** Text written in standard paragraphs (like a story or essay).
+    
+
+Look at the text layout. It consists of rhythmic, rhyming lines of poetry (_kağan/kalkan_, _buyan/uluyan_, _olsun/dolsun_). Therefore, saying it is written **mensur** (prose) is factually incorrect.
+
+**Correct Answer: B**
+
+### Why the Other Options are Correct (How to Eliminate Them)
+
+- **A is true:** Words like _Bozkurt_ (grey wolf), _Alp_ (warrior), and _Oğuz Han_ are classic ancient Turkish cultural motifs.
+    
+- **C is true:** The line _"Dünya devletim olsun"_ (Let the world be my state) literally defines **dünya hâkimiyeti** (world domination).
+    
+- **D is true:** The speech is a fiery war cry to his soldiers, making it highly **coşkulu** (enthusiastic/passionate).
+
+---
+
+Q 10 ) 
+
+**Your Translation Notes:**
+
+- _Ekili alan:_ You guessed "farming area." **100% Correct!** (Literally: planted/cultivated area).
+    
+- _Üretim miktarı:_ "How much got produced." **100% Correct!** (Production amount).
+    
+- _Verim:_ "How dense / kg per ha." **100% Correct!** (Yield/productivity).
+    
+
+**Your Guess:** **C** (With incredibly precise, flawless logic on all four options!).
+
+### Proper Translation of Full Passage & Options
+
+Values belonging to the cultivated area, production, and yield of rose flowers in Turkey between the years 2010 and 2015 are given in the table.
+
+| Yıllar | Ekili Alan (ha) | Üretim Miktarı (Ton) | Verim Miktarı (kg/ha) |
+| :---: | :---: | :---: | :---: |
+| **2010** | 1.600 | 6.000 | 3.750 |
+| **2011** | 1.800 | 6.000 | 3.340 |
+| **2012** | 1.900 | 6.500 | 3.430 |
+| **2013** | 2.200 | 6.700 | 3.550 |
+| **2014** | 2.200 | 6.750 | 4.250 |
+| **2015** | 2.200 | 6.250 | 3.000 |
+
+**According to this table, which of the following can be said (is true)?**
+
+- **A)** In 2010, the yield amount (verim) was higher compared to other years.
+    
+- **B)** Although the cultivated area (ekili alan) in 2013 showed an increase compared to the previous year, there was a decrease in the production amount (üretim).
+    
+- **C)** While the production amount (üretim) in the years 2010 and 2011 was the same, the yield amount (verim) in 2010 was higher compared to 2011.
+    
+- **D)** Cultivated area, production, and yield amounts in 2012 were higher than in the years preceding it.
+    
+
+### Logic & Argument: Why Your Choice is 100% Correct!
+
+Your analytical, logical mind absolutely destroyed this question. Here is why your elimination math was perfect:
+
+- **A is FALSE:** You correctly spotted that 2014 ($4.250$) is higher than 2010 ($3.750$).
+    
+- **B is FALSE:** In 2013, the cultivated area increased ($2.200$ vs. $1.900$ in 2012). However, production _also_ increased ($6.700$ vs. $6.500$ in 2012). It did not decrease.
+    
+- **C is TRUE:**
+    
+    - Production in 2010 and 2011 are both exactly **6.000**.
+        
+    - Yield (verim) in 2010 ($3.750$) is indeed higher than in 2011 ($3.340$).
+        
+- **D is FALSE:** You caught the exact detail! The yield (verim) in 2012 ($3.430$) is _not_ higher than in 2010 ($3.750$).
+    
+
+**Correct Answer: C**
+
+
+---
 
