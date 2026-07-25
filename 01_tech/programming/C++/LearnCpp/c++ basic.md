@@ -16,5 +16,5 @@
 - `int main()` is telling the compiler to define a function whose identifier is called **main** (which is required in any C++ program) that produces/returns a value of type `int` (integer).
 - You have to define what type of data you're returning from a function in C++ (or not returning anything with `void`), but you have to specify it anyway.
 
-### Personal Note: [[Thoughts on C++ and my proficiency at it]]
+### Personal Note: [[2026-01-06 Thoughts on C++ and my proficiency at it]]
 

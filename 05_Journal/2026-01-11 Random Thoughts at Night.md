@@ -1,4 +1,3 @@
-# 1/11/2026
 
 Hi, it's like 3am literally and I don’t know what is happening with me. I am trying to be ambitious and be like, "Yeah, I'll learn what I need to learn." Things worth doing are hard in life and all that, but at the same time I’m like, "What am I actually supposed to do?"  
 

@@ -1,4 +1,4 @@
-# Self Journal Entry – January 06, 2026
+# Self Journal Entry
 
 **NOTE**: Okay, so I looked back on my cpp-learning-journey GitHub repo  
 <https://github.com/Yui13KH/cpp-learning-journey>  
