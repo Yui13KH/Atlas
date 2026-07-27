@@ -1,4 +1,6 @@
 
+ haas Basic Mill Operator
+
 CHAPTER 1: BASIC UNDERSTANDING OF CNC MACHINE TOOLS AND USE   
 
 1.1 Introduction to CNC Machining - Basic Mill Operator   
