@@ -1,31 +1,31 @@
 
 ## 📋 Phase 1: 3-Axis Basic Setup
 
-- [ ] **UPLOAD G-CODE PROGRAM INTO YOUR CNC MACHINE**: Learn how to upload a G-code program into your CNC machine to prepare your job for machining.
+- [x] **UPLOAD G-CODE PROGRAM INTO YOUR CNC MACHINE**: Learn how to upload a G-code program into your CNC machine to prepare your job for machining and ensure the correct program is ready to run.
     
-- [ ] **SAFETY GUIDELINES**: Learn the essential safety guidelines for CNC machining to protect yourself, operate equipment safely, and prevent shop accidents.
+- [x] **SAFETY GUIDELINES**: Learn the essential safety guidelines for CNC machining to protect yourself, operate equipment safely, and prevent shop accidents.
     
-- [ ] **INSTALLING A VISE**: Learn how to properly install and align a CNC vise to create a solid, accurate foundation on the machine table.
+- [x] **INSTALLING A VISE**: Learn how to properly install and align a CNC vise to create a solid, accurate foundation on the machine table.
     
-- [ ] **INSTALLING PARALLELS**: Learn how to properly install parallels in your CNC vise to support the workpiece securely at the correct height.
+- [x] **INSTALLING PARALLELS**: Learn how to properly install parallels in your CNC vise to support the workpiece securely at the correct height.
     
-- [ ] **DEBURRING MATERIAL**: Learn how to properly deburr raw material by removing sharp edges and imperfections to ensure proper seating and safety.
+- [x] **DEBURRING MATERIAL**: Learn how to properly deburr raw material by removing sharp edges and imperfections to ensure proper seating and safety.
     
-- [ ] **INSTALLING A LEFT HAND STOP**: Learn how to install and position a left-hand stop to establish a consistent workpiece reference position.
+- [x] **INSTALLING A LEFT HAND STOP**: Learn how to install and position a left-hand stop to establish a consistent workpiece reference position.
     
-- [ ] **INSTALLING MATERIAL INTO THE VISE**: Learn how to properly install material in a CNC vise by positioning and securing the stock correctly.
+- [x] **INSTALLING MATERIAL INTO THE VISE**: Learn how to properly install material in a CNC vise by positioning and securing the stock correctly.
     
-- [ ] **CLAMPING VISE WITH THE CORRECT TORQUE**: Learn how to properly torque your vise by applying the correct clamping force to prevent part movement or distortion.
+- [x] **CLAMPING VISE WITH THE CORRECT TORQUE**: Learn how to properly torque your vise by applying the correct clamping force to prevent part movement or distortion.
     
-- [ ] **SETTING TOOL HEIGHT OFFSETS**: Learn how to set tool height offsets by accurately measuring each tool's position relative to the workpiece.
+- [x] **SETTING TOOL HEIGHT OFFSETS**: Learn how to set tool height offsets by accurately measuring each tool's position relative to the workpiece.
     
-- [ ] **SETTING WORK OFFSET**: Learn how to set your work offset by accurately establishing the part's reference position ($G54$) on the machine.
+- [x] **SETTING WORK OFFSET**: Learn how to set your work offset by accurately establishing the part's reference position ($G54$) on the machine.
     
-- [ ] **SIMULATE CODED PROGRAM**: Learn how to simulate your CNC program in the machine control to identify potential errors before cutting.
+- [x] **SIMULATE CODED PROGRAM**: Learn how to simulate your CNC program in the machine control to identify potential errors before cutting.
     
-- [ ] **DRY RUNNING YOUR PART**: Learn how to safely dry run your CNC program by verifying machine movements, clearance heights, and motion paths in mid-air.
+- [x] **DRY RUNNING YOUR PART**: Learn how to safely dry run your CNC program by verifying machine movements, clearance heights, and motion paths in mid-air.
     
-- [ ] **VERIFYING YOUR PROCESS**: Learn how to verify your machining process by reviewing key program values, checking toolpaths, and double-checking offsets.
+- [x] **VERIFYING YOUR PROCESS**: Learn how to verify your machining process by reviewing key program values, checking toolpaths, and double-checking offsets.
     
 
 ## 📋 Phase 2: CNC Mill Fundamentals
