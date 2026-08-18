@@ -113,6 +113,59 @@ the robootics one is actually kinda deep
 
 **
 
+fixed order more logical
+
+**Phase 1: Foundations (Math & Physics Prereqs)**
+
+- Algebra: Elementary to Advanced Specialization (32 Hours)
+    
+- Introduction to Calculus (60 Hours)
+    
+- Physics 101 - Forces and Kinematics (29 Hours)
+    
+- Physics 101 - Energy and Momentum (23 Hours)
+    
+- Physics 101 - Rotational Motion and Gravitation (27 Hours)
+    
+
+**Phase 2: Core Hardware & Programming (Applied Circuits & MATLAB)**
+
+- Sensors and Sensor Circuit Design (31 Hours)
+    
+- Motors and Motor Control Circuits (36 Hours)
+    
+- Introduction to Programming with MATLAB (35 Hours)
+    
+
+**Phase 3: Deep Robotics & Kinematics (Modern Robotics)**
+
+- Modern Robotics, Course 1: Foundations of Robot Motion (24 Hours)
+    
+- Modern Robotics, Course 2: Robot Kinematics (18 Hours)
+    
+- Modern Robotics, Course 3: Robot Dynamics (21 Hours)
+    
+- Modern Robotics, Course 4: Robot Motion Planning and Control (31 Hours)
+    
+- Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots (35 Hours)
+    
+- Modern Robotics, Course 6: Capstone Project, Mobile Manipulation (20 Hours)
+    
+
+**Phase 4: Specialized Systems (Penn Robotics Specialization)**
+
+- Robotics: Computational Motion Planning (11 Hours)
+    
+- Robotics: Mobility (19 Hours)
+    
+- Robotics: Perception (32 Hours)
+    
+- Robotics: Estimation and Learning (14 Hours)
+    
+- Robotics: Aerial Robotics (17 Hours)
+    
+- [Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone?specialization=robotics) (26 Hours)
+
 ---
 
 electrical cars also kinda deep
@@ -139,6 +192,34 @@ electrical cars also kinda deep
 |1|Battery State-of-Charge (SOC) Estimation|27|[Link](https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems)|
 |2|Battery State-of-Health (SOH) Estimation|21|[Link](https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems)|
 |3|Battery Pack Balancing and Power Estimation|22|[Link](https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems)|
+
+### Reordered Track: Electric Vehicles & Battery Management
+
+**Phase 1: Foundations (Math, Physics & Tools)**
+
+1. Algebra: Elementary to Advanced - Equations & Inequalities (10 Hours)
+    
+2. Algebra: Elementary to Advanced - Functions & Applications (5 Hours)
+    
+3. Algebra: Elementary to Advanced - Polynomials and Roots (9 Hours)
+    
+4. Physics 102 - Electric Potential and DC Circuits (21 Hours)
+    
+5. Introduction to Programming with MATLAB (35 Hours)
+    
+
+**Phase 2: Context & EV Systems Overview** 
+6. People, Technology and the Future of Mobility (19 Hours) 
+7. Electric Vehicles and Mobility (19 Hours)
+
+**Phase 3: Battery Hardware & Core Modeling** 
+8. Introduction to battery-management systems (24 Hours) 
+9. Equivalent Circuit Cell Model Simulation (25 Hours)
+
+**Phase 4: Advanced BMS Algorithms & Control** 
+10. Battery State-of-Charge (SOC) Estimation (27 Hours) 
+11. Battery State-of-Health (SOH) Estimation (21 Hours) 
+12. Battery Pack Balancing and Power Estimation (22 Hours)
 
 ---
 
@@ -172,6 +253,33 @@ renewable energy one
     
 
 **
+
+### Reordered Track: Renewable Energy & Grid Systems
+
+**Phase 1: Macro Overview & Grid Integration**
+
+1. [Solar Energy Basics](http://coursera.org/learn/solar-energy-basics) (13 hours)
+    
+2. [Renewable power and Electricity systems](https://www.coursera.org/learn/renewable-power-electricity-systems) (12 hours)
+    
+
+**Phase 2: Solar Energy & Photovoltaic Systems** 
+3. [Introduction to Solar Cells](https://www.coursera.org/learn/solar-cells) (23 hours) 
+4. [Solar energy and electrical system design](https://www.coursera.org/learn/solar-energy-system-design) (14 hours)
+
+**Phase 3: Wind Energy Systems** 
+5. [Wind resources for renewable energies](https://coursera.org/learn/wind-for-renewable-energies) (17 hours) 
+6. [Wind energy](https://coursera.org/learn/wind-energy) (27 hours)
+
+**Phase 4: Power Electronics & Circuits** 
+7. [Converter circuit](https://www.coursera.org/learn/converter-circuits) (18 hours)
+
+**Phase 5: Energy Storage & Battery Management Systems (BMS)** 
+8. [Introduction to battery management system](https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems)
+9. [Equivalent Circuit Cell Model Simulation](https://www.coursera.org/learn/equivalent-circuit-cell-model-simulation?specialization=algorithms-for-battery-management-systems) 1
+10. [Battery State-of-Charge (SOC) Estimation](https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems) 
+11. [Battery State-of-health (SOH) Estimation](https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems) 
+12. [Battery Pack Balancing and Power Estimation](https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems)
 
 ---
 
