@@ -6,10 +6,10 @@
 
 ## Phase 1: Foundational Fluency
 
-| Step | Course | Stage / Level | Core Focus & Prerequisites |
-| :---: | :--- | :--- | :--- |
-| **01** | **Arithmetic (all content)** | Stage 1: Basics | Place value, fractions, decimals, negative numbers, and mental math fluency. |
-| **02** | **Pre-Algebra** | Stage 2: Intro to Variables | Ratios, order of operations, algebraic expressions, and 1-step equations. |
+|  Step  | Course                       | Stage / Level               | Core Focus & Prerequisites                                                   |     |
+| :----: | :--------------------------- | :-------------------------- | :--------------------------------------------------------------------------- | --- |
+| **01** | **Arithmetic (all content)** | Stage 1: Basics             | Place value, fractions, decimals, negative numbers, and mental math fluency. |     |
+| **02** | **Pre-Algebra**              | Stage 2: Intro to Variables | Ratios, order of operations, algebraic expressions, and 1-step equations.    |     |
 
 ---
 

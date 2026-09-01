@@ -8,17 +8,22 @@ Whether it is graphics programming, the math ones, Khan Academy, or all of that 
 
 For now, the plan is to:
 
-- [ ] Re-watch the Haas mill training one (it's quite short)
+- [x] Re-watch the Haas mill training one (it's quite short)
     
-- [ ] Mitutoyo Inspection 101
+- [x] Mitutoyo Inspection 101
     
-- [ ] Titans of CNC 3-Axis
+- [x] Titans of CNC 3-Axis
     
-- [ ] Coolant 101
+- [x] Coolant 101
     
-- [ ] Read a bit about GD&T (I already know it from like SolidWorks CAD modeling, but do a rewatch on it)
+- [x] Read a bit about GD&T (I already know it from like SolidWorks CAD modeling, but do a rewatch on it)
     
 
 I have like 3 days to review these things, and hopefully the job is good. I did get a job before, but it was just shitty—0 safety rules, protocols, or anything. It was just so bad: no eye protection, skin protection, gloves, or anything like that, so I quit on the same day. Plus, I was ironically supposed to work in an office, so it was also lying, and the contract was stupid with an "if you leave before 2 years, you have to pay all the 'training costs' that we paid for you."
 
 So yeah, nope. What kind of contract is that? The owner would pull "training costs" out of their ass just to pressure you into staying in a shitty environment and forcing you to do stuff you don't want to do, because you know that if you quit, you'll get hit by God knows how much in costs.
+
+
+---
+
+Update 2026-9-1 :  No I couldn't land anything like that tried with about 19 jobs  
